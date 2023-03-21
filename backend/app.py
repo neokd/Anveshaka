@@ -22,7 +22,6 @@ def create_token():
     })
 
 @app.route("/",methods=['GET','POST'])
-@jwt_required()
 def index():
     return "<h1>Hello World</h1>"
 
@@ -42,4 +41,4 @@ def getData():
         }
 
 if __name__ == '__main__':
-    app.run(debug=True,port=8000)
+    app.run(debug=True,port=5000)

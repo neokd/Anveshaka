@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Navigate } from 'react-router-dom'
 
 function Login() {
     const [email, setEmail] = useState("")
@@ -15,7 +16,7 @@ function Login() {
                 password: password
             })
         }
-        fetch('http://127.0.0.1:8000/token', data).then(
+        fetch('http://127.0.0.1:5000/token', data).then(
             res => res.json()
         ).then((data) => {
             sessionStorage.setItem("token", data.access_token)
@@ -25,8 +26,7 @@ function Login() {
     }
     return (
         <>
-
-            {(token && token != "" && token != undefined) ? <h1 className='text-4xl font-bold'>You are already logged in</h1> :
+            {(token && token != "" && token != undefined) ? <Navigate replace to='/'/>:
                 <div>
                     <h1>Login In</h1>
                     <input type="text" placeholder='email' value={email} onChange={(e) => setEmail(e.target.value)} />
