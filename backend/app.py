@@ -15,16 +15,14 @@ def getData():
         return {
             "head":"Anveshaka"
         }
-    else:
+    elif request.method == 'POST':
         byteString = request.get_data()
         jsonString = byteString.decode('utf-8')
         jsonData = json.loads(jsonString)
         print("User Typed -> "+jsonData['header'])
         return {
-            "head":"POSt"
+            "head":jsonData['header']
         }
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
