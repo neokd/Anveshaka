@@ -3,7 +3,7 @@ import '../fonts/SamarkanOblique-BXew.ttf';
 import '../App.css'
 
 function Home() {
-    const url = 'http://127.0.0.1:5000/data'
+    const url = 'http://127.0.0.1:8000/data'
     // GET FROM SERVER
     const [data, setData] = useState({})
     useEffect(() => {
