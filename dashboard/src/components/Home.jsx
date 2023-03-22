@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom';
 import '../fonts/SamarkanOblique-BXew.ttf';
 import '../App.css'
 
@@ -16,9 +17,10 @@ function Home() {
 
     // POST TO SERVER
     const [searchKey, setSearchKey] = useState('');
-
+    const navigate = useNavigate();
     const handleSubmit = (event) => {
         event.preventDefault();
+        
         fetch(url, {
             method: "POST",
             body: JSON.stringify({
@@ -29,6 +31,7 @@ function Home() {
             },
         }).then(response => response.json())
         setSearchKey('')
+        navigate('/success')
 
     };
 
