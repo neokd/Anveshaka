@@ -9,8 +9,11 @@ module.exports = {
     extend: {
       width: {
         '128': '29rem',
+        '180':'60rem',
       }
     }
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
 }

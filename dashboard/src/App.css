@@ -6,6 +6,16 @@
 }
 .font-face-sk {
     font-family: "Samarkan";
-    letter-spacing: 3px;
+    
+}
+@font-face {
+    font-family: "Nusar";
+    src: local("Nusar"),
+        url("./fonts/NUSAR.ttf") format("truetype");
+
+}
+.font-face-nu {
+    font-family: "Nusar";
+    
    }
    

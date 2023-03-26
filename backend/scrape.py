@@ -44,10 +44,9 @@ def scrape_google(text):
 def write_json(links):
     i=0
     json_write = []
-    for link in links:
+    for link in links[:10]:
         article = Article(link, language="en")
         try:
-            i+=1
             article.download()
             article.parse()
             article.nlp()
@@ -55,6 +54,7 @@ def write_json(links):
             pass
         print('-----------------------------------------> '+str(i))
         json_data = {
+            "key":str(i),
             "url":link,
             "title": article.title,
             "description": article.text,
@@ -62,18 +62,18 @@ def write_json(links):
             "keywords":article.keywords
         }
         json_write.append(json_data)
+        i+=1
     with open('temp.json','w') as json_file:
         json.dump(json_write,json_file,indent=4, separators=(',', ': '))
 
 def extract_json():
     json_file = open('temp.json')
-    data = json.load(json_file)
-    for i in data:
-        print(i['summary'])
+    data = list(json.load(json_file))
+    return data
 
 if __name__ == '__main__':
-    links = (scrape_google_news('python'))
-    write_json(links)
+    # links = (scrape_google_news('python'))
+    # write_json(links)
     extract_json()
     
 
