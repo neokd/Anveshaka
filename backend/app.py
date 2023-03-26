@@ -28,7 +28,7 @@ def create_token():
 def index():
     return "<h1>Hello World</h1>"
 
-@app.route('/data',methods=['GET','POST'])
+@app.route('/api/data',methods=['GET','POST'])
 def getData():
     global query,links
     if request.method == 'GET':
@@ -46,14 +46,14 @@ def getData():
             "head":jsonData['header']
         }
 
-@app.route('/head',methods=['GET'])
+@app.route('/api/head',methods=['GET'])
 def head():
     global query
     return {
         'heading':query
     }
 
-@app.route('/success',methods=['GET'])
+@app.route('/api/success',methods=['GET'])
 def success():
     scrape.write_json(links)
     return jsonify(scrape.extract_json())

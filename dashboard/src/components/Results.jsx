@@ -10,7 +10,7 @@ function Results() {
   const [selectedItem,setSelectedItem] = useState(null)
 
   useEffect(() => {
-    fetch('http://127.0.0.1:5000/success')
+    fetch('/api/success')
       .then(response => response.json())
       .then(data => {
         setData(data);
@@ -20,7 +20,7 @@ function Results() {
   }, []);
 
   useEffect(() => {
-    fetch('http://127.0.0.1:5000/head')
+    fetch('/api/head')
       .then(response => response.json())
       .then(head => {
         setHead(head);
@@ -41,7 +41,6 @@ function Results() {
   return (
     <>
       {loading ? (
-
         <div className="fixed backdrop-blur-xl bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-800 via-gray-900 to-black top-0 left-0 right-0 bottom-0 w-full h-screen z-50 overflow-hidden flex flex-col items-center justify-center">
           <HashLoader color="#7b38eb" size={75} />
           <div className='text-white py-5 text-3xl font-semibold'>
@@ -60,8 +59,8 @@ function Results() {
         </div>
       ) : (
         <div className='bg-gradient-to-tl from-gray-700 via-gray-900 to-black h-full pb-16'>
-          <div className='container mx-auto pt-16'>
-            <h1 className='text-white text-4xl mb-8'><span className='font-semibold'>Anveshaka</span> has fetched the results for <span className='font-bold'>{head.heading}</span>!</h1>
+          <div className='container mx-auto lg:mx-24 pt-16'>
+            <h1 className='text-white mx-4 text-3xl lg:px-0 lg:text-4xl mb-8'><span className='font-semibold '>Anveshaka</span> has fetched the results for <span className='font-bold '>{head.heading}</span>!</h1>
             {
               data.map((item, index) => (
                 <div key={item.key}>

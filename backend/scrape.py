@@ -56,9 +56,9 @@ def write_json(links):
         json_data = {
             "key":str(i),
             "url":link,
-            "title": article.title,
-            "description": article.text,
-            "summary":article.summary,
+            "title": article.title.strip(),
+            "description": article.text.strip(),
+            "summary":article.summary.strip(),
             "keywords":article.keywords
         }
         json_write.append(json_data)
