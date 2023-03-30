@@ -3,6 +3,7 @@ import requests
 import bs4
 import json
 import nltk
+import engine
 
 try:
     nltk.data.find('tokenizers/punkt.zip')
@@ -57,9 +58,11 @@ def write_json(links):
             "key":str(i),
             "url":link,
             "title": article.title.strip(),
-            "description": article.text.strip(),
+            "description": article.text,
             "summary":article.summary.strip(),
-            "keywords":article.keywords
+            "keywords":article.keywords,
+            "sentiment":engine.find_sentiment(article.text.strip()),
+            "dark": "False",
         }
         json_write.append(json_data)
         i+=1
@@ -72,8 +75,8 @@ def extract_json():
     return data
 
 if __name__ == '__main__':
-    # links = (scrape_google_news('python'))
-    # write_json(links)
+    links = (scrape_google_news('python'))
+    write_json(links)
     extract_json()
     
 

@@ -4,6 +4,8 @@ import json
 import os
 from flask_jwt_extended import current_user,create_access_token,jwt_required,JWTManager
 import scrape
+import wikipedia
+from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 app = Flask(__name__)
 CORS(app)
@@ -57,6 +59,24 @@ def head():
 def success():
     scrape.write_json(links)
     return jsonify(scrape.extract_json())
+
+@app.route('/api/generate',methods=['GET'])
+async def generate():
+    global query
+    try:
+        tokenizer = T5Tokenizer.from_pretrained('t5-small')
+        model = T5ForConditionalGeneration.from_pretrained('t5-small')
+        input_ids = tokenizer.encode(wikipedia.summary(query), return_tensors='pt')
+        summary_ids = model.generate(input_ids, max_length=400, num_beams=4, early_stopping=True)
+        summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
+        print(summary)
+        return {
+            'generated':summary
+        }
+    except:
+        return {
+            "generated":"Sorry, Couldn't fetch the data"
+        }
 
 if __name__ == '__main__':
     app.run(debug=True,port=5000)

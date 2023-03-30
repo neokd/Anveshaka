@@ -6,6 +6,7 @@ function Login() {
     const [password, setPassword] = useState("")
     const token = sessionStorage.getItem("token")
     const handleClick = () => {
+        sessionStorage.clear()
         const data = {
             method: "POST",
             headers: {

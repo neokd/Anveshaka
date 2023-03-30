@@ -10,6 +10,9 @@ module.exports = {
       width: {
         '128': '29rem',
         '180':'60rem',
+      },
+      margin:{
+        '18':'4.25rem',
       }
     }
   },

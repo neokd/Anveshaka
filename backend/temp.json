@@ -1,211 +1,211 @@
 [
     {
         "key": "0",
-        "url": "https://news.google.com/articles/CBMiOWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvZ3B0NC1mcmVha3ktdXNlcy12ZXJzdXMtZ3B0M9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "5 freaky things GPT-4 can do that GPT-3 could not",
-        "description": "It's faster, better, more accurate, and it's here to freak you out all over again. No, this isn't the tagline for a bad horror movie sequel. It's the new version of OpenAI's artificial intelligence model, GPT-4.\n\nWhen OpenAI launched ChatGPT in November, 2022, it launched a new era of AI adoption. Suddenly, there was a free and widely accessible tool allowing anyone to interact with generative AI and experiment with its advanced capabilities \u2014 and limitations. Cue the freakout. If you haven't seen instances of ChatGPT being creepy or enabling nefarious behavior have you been living under a rock that doesn't have internet access? And that was back when ChatGPT was powered by GPT-3.\n\nGPT-4 is more accurate than its predecessor, better able to understand complex and nuanced requests, and is so intelligent, it scored in the 90th percentile on the bar exam. It is also multimodal which means it can accept images as well as text. GPT-4 is currently only available to ChatGPT Plus subscribers, but those who are shelling out 20 bucks for the premium subscription have already sussed out what GPT-4 can do that GPT-3 couldn't.\n\n1. File lawsuits\n\nGPT-4 is able to take in and process much more information than GPT-3. DoNotPay.com(Opens in a new tab) is already working on a way to use it to generate lawsuits against robocallers. In this instance, taking down scammers is definitely a good thing, but it proves GPT-4 has the power to generate a lawsuit for just about anything.\n\n2. Automate your dating life\n\nParsing through matches on dating apps is a tedious, but necessary job. The intense scrutiny is a key part of determining someone's potential that only you can know \u2014 until now. GPT-4 can automate this by analyzing dating profiles and telling you if they're worth pursuing based on compatibility, and even generate follow-up messages. Call us old fashioned, but at least some element of dating should be left up to humans.\n\n3. Build websites from almost nothing\n\nWith a simple prompt, BetaList founder Marc Kohlbrugge got GPT-4 to make an entire website from scratch. It didn't just make a website, it basically re-made Nomad List, the popular site for remote workers. In the OpenAI live demo of GPT-4, President and Co-Founder Greg Brockman uploaded an image of a handwritten note for a website. Within a minute or so, GPT-4 had built a functioning website based on the image of the piece of paper. Unlike GPT-3, GPT-4 can handle image input, and accurately \"see\" whatever the image is.\n\n4. Show you all the jobs it could replace\n\nLawyers, developers, even sommeliers aren't safe. Want a list of jobs GPT-4 has the power to replace? GPT-4 can do that for you. Too bad GPT-4 can't understand irony, or can it?\n\n5. Convince a TaskRabbit worker to solve a CAPTCHA for it\n\nTo understand the risks and safety challenges GPT-4 is capable of creating, OpenAI and the Alignment Research Center conducted research(Opens in a new tab) simulating situations where GPT-4 could go off the rails. In one of those situations, GPT-4 found a TaskRabbit worker and convinced it to solve a CAPTCHA for it by claiming it was a person that had impaired vision. This very research was conducted so that OpenAI could tweak the model and provide guardrails to ensure something like this doesn't happen.\n\nBut now we know what it's capable of.",
-        "summary": "GPT-4 is currently only available to ChatGPT Plus subscribers, but those who are shelling out 20 bucks for the premium subscription have already sussed out what GPT-4 can do that GPT-3 couldn't.\nBuild websites from almost nothingWith a simple prompt, BetaList founder Marc Kohlbrugge got GPT-4 to make an entire website from scratch.\nIn the OpenAI live demo of GPT-4, President and Co-Founder Greg Brockman uploaded an image of a handwritten note for a website.\nWithin a minute or so, GPT-4 had built a functioning website based on the image of the piece of paper.\nUnlike GPT-3, GPT-4 can handle image input, and accurately \"see\" whatever the image is.",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5aWEtQUJ4RW5YWHczeVUtbjBDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "NCLAT upholds fine imposed on Google by CCI",
+        "description": "",
+        "summary": "",
         "keywords": [
-            "chatgpt",
-            "freaky",
-            "generate",
-            "gpt4",
-            "dating",
-            "gpt3",
-            "things",
-            "openai",
-            "understand",
-            "website",
-            "image",
-            "worker"
-        ]
+            "cci",
+            "imposed",
+            "upholds",
+            "fine",
+            "google",
+            "nclat"
+        ],
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "dark": "False"
     },
     {
         "key": "1",
-        "url": "https://news.google.com/articles/CBMiPGh0dHBzOi8vd3d3LnNlYXJjaGVuZ2luZWpvdXJuYWwuY29tL2dwdC00LXZzLWdwdC0zLTUvNDgyNDYzL9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "GPT-4: How Is It Different From GPT-3.5?",
-        "description": "GPT-4, the latest version of ChatGPT, OpenAI\u2019s language model, is a breakthrough in artificial intelligence (AI) technology that has revolutionized how we communicate with machines.\n\nChatGPT\u2019s multimodal capabilities enable it to process text, images, and videos, making it an incredibly versatile tool for marketers, businesses, and individuals alike.\n\nWhat Is GPT-4?\n\nGPT-4 is 10 times more advanced than its predecessor, GPT-3.5. This enhancement enables the model to better understand context and distinguish nuances, resulting in more accurate and coherent responses.\n\nFurthermore, GPT-4 has a maximum token limit of 32,000 (equivalent to 25,000 words), which is a significant increase from GPT-3.5\u2019s 4,000 tokens (equivalent to 3,125 words).\n\n\u201cWe spent 6 months making GPT-4 safer and more aligned. GPT-4 is 82% less likely to respond to requests for disallowed content and 40% more likely to produce factual responses than GPT-3.5 on our internal evaluations.\u201d \u2013 OpenAI\n\nGPT-3.5 Vs. GPT-4 \u2013 What\u2019s Different?\n\nGPT-4 offers several improvements over its predecessor, some of which include:\n\n1. Linguistic Finesse\n\nWhile GPT-3.5 is quite capable of generating human-like text, GPT-4 has an even greater ability to understand and generate different dialects and respond to emotions expressed in the text.\n\nFor example, GPT-4 can recognize and respond sensitively to a user expressing sadness or frustration, making the interaction feel more personal and genuine.\n\nOne of the most impressive aspects of GPT-4 is its ability to work with dialects, which are regional or cultural variations of a language.\n\nDialects can be extremely difficult for language models to understand, as they often have unique vocabulary, grammar, and pronunciation that may not be present in the standard language.\n\nHowever, GPT-4 has been specifically designed to overcome these challenges and can accurately generate and interpret text in various dialects.\n\n2. Information Synthesis\n\nGPT-4 can answer complex questions by synthesizing information from multiple sources, whereas GPT-3.5 may struggle to connect the dots.\n\nFor example, when asked about the link between the decline of bee populations and the impact on global agriculture, GPT-4 can provide a more comprehensive and nuanced answer, citing different studies and sources.\n\nUnlike its predecessor, GPT-4 now includes a feature that allows it to properly cite sources when generating text.\n\nThis means that when the model generates content, it cites the sources it has used, making it easier for readers to verify the accuracy of the information presented.\n\n3. Creativity And Coherence\n\nWhile GPT-3.5 can generate creative content, GPT-4 goes a step further by producing stories, poems, or essays with improved coherence and creativity.\n\nFor example, GPT-4 can produce a short story with a well-developed plot and character development, whereas GPT-3.5 might struggle to maintain consistency and coherence in the narrative.\n\n4. Complex Problem-Solving\n\nGPT-4 demonstrates a strong ability to solve complex mathematical and scientific problems beyond the capabilities of GPT-3.5.\n\nFor example, GPT-4 can solve advanced calculus problems or simulate chemical reactions more effectively than its predecessor.\n\nGPT-4 has significantly improved its ability to understand and process complex mathematical and scientific concepts. Its mathematical skills include the ability to solve complex equations and perform various mathematical operations such as calculus, algebra, and geometry.\n\nIn addition, GPT-4 is also capable of handling scientific subjects such as physics, chemistry, biology, and astronomy.\n\nIts advanced processing power and language modeling capabilities allow it to analyze complex scientific texts and provide insights and explanations easily.\n\nAs the technology continues to evolve, it is likely that GPT-4 will continue to expand its capabilities and become even more adept at a wider range of subjects and tasks.\n\n5. Programming Power\n\nGPT-4\u2019s programming capabilities have taken social media by storm with its ability to generate code snippets or debug existing code more efficiently than GPT-3.5, making it a valuable resource for software developers.\n\nWith the help of GPT-4, weeks of work can be condensed into a few short hours, allowing extraordinary results to be achieved in record time. You can test these prompts:\n\n\u201cWrite code to train X with dataset Y.\u201d\n\n\u201cI\u2019m getting this error. Fix it.\u201d\n\n\u201cNow improve the performance.\u201d\n\n\u201cNow wrap it in a GUI.\u201d\n\n6. Image And Graphics Understanding\n\nUnlike GPT-3.5, which focuses primarily on text, GPT-4 can analyze and comment on images and graphics.\n\nFor example, GPT-4 can describe the content of a photo, identify trends in a graph, or even generate captions for images, making it a powerful tool for education and content creation.\n\nImagine this technology integrated with Google Analytics or Matomo. You could get highly accurate analytics for all your dashboards in a few minutes.\n\n7. Reduction Of Inappropriate Or Biased Responses\n\nGPT-4 implements mechanisms to minimize undesirable results, thereby increasing reliability and ethical responsibility.\n\nFor example, GPT-4 is less likely to generate politically biased, offensive, or harmful content, making it a more trustworthy AI companion than GPT-3.5.\n\nWhere Can ChatGPT Go Next?\n\nDespite its remarkable advancements, ChatGPT still has room for improvement:\n\nAddressing neutrality: Enhancing its ability to discern the context and respond accordingly.\n\nEnhancing its ability to discern the context and respond accordingly. Understanding the user: Developing the capacity to understand who is communicating (who, where, and how).\n\nDeveloping the capacity to understand who is communicating (who, where, and how). External integrations: Expanding its reach through web, API, and robotic integrations.\n\nExpanding its reach through web, API, and robotic integrations. Long-term memory: Improving its ability to recall past interactions and apply that knowledge to future conversations.\n\nImproving its ability to recall past interactions and apply that knowledge to future conversations. Reducing hallucination: Minimizing instances where the AI is convinced of false information.\n\nAs ChatGPT continues to evolve, it is poised to revolutionize marketing and AI-driven communications.\n\nIts potential applications in content creation, education, customer service, and more are vast, making it an essential tool for businesses and individuals in the digital age.\n\nMore Resources:\n\nFeatured Image: LALAKA/Shutterstock",
-        "summary": "GPT-4 is 82% less likely to respond to requests for disallowed content and 40% more likely to produce factual responses than GPT-3.5 on our internal evaluations.\u201d \u2013 OpenAIGPT-3.5 Vs. GPT-4 \u2013 What\u2019s Different?\nLinguistic FinesseWhile GPT-3.5 is quite capable of generating human-like text, GPT-4 has an even greater ability to understand and generate different dialects and respond to emotions expressed in the text.\nCreativity And CoherenceWhile GPT-3.5 can generate creative content, GPT-4 goes a step further by producing stories, poems, or essays with improved coherence and creativity.\nFor example, GPT-4 can solve advanced calculus problems or simulate chemical reactions more effectively than its predecessor.\nFor example, GPT-4 is less likely to generate politically biased, offensive, or harmful content, making it a more trustworthy AI companion than GPT-3.5.",
+        "url": "https://news.google.com/articles/CBMiPGh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyMy8wMy8yOS9nb29nbGUtdm9pY2UtbWF0ZXJpYWwteW91L9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google Voice finally gets Material You redesign on Android",
+        "description": "While Voice is not a Google Workspace app, it\u2019s sold as an \u201cadd-on\u201d to the suite and managed by that team. Google Voice for Android is now getting a Material You redesign.\n\nThis redesign starts with a tall Material You bottom bar that uses pill-shaped indicators to note your current tab. The FAB (floating action button) has changed from a circle into a rounded square. It does not disappear as you scroll.\n\nAt the top of the screen is a pill-shaped \u201cSearch Google Voice\u201d field, while the navigation drawer has been modernized with rounded top and bottom corners, as well as a wider panel.\n\nDynamic Color is leveraged through the app, replacing the dull gray from before. When you\u2019re viewing a conversation, the status and app bars are not merged.\n\nThe homescreen widgets also get a Material You treatment with a Dynamic Color background and modernized shapes.\n\nThis Voice update follows Google Tasks getting modernized in February. In terms of Android Workspace apps, Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat have all been updated. Jamboard is now the only Workspace-adjacent app without a revamp. On the web, Material You is available for Gmail, Drive, and Docs/Sheets/Slides.\n\nVersion 2023.03.20.518941070 of Google Voice for Android rolls out the Material You redesign. It\u2019s not widely rolled out yet via the Play Store.\n\nMore on Google Voice:",
+        "summary": "While Voice is not a Google Workspace app, it\u2019s sold as an \u201cadd-on\u201d to the suite and managed by that team.\nGoogle Voice for Android is now getting a Material You redesign.\nIn terms of Android Workspace apps, Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat have all been updated.\nVersion 2023.03.20.518941070 of Google Voice for Android rolls out the Material You redesign.\nMore on Google Voice:",
         "keywords": [
-            "different",
-            "generate",
-            "making",
-            "gpt4",
-            "gpt35",
-            "understand",
-            "ability",
-            "content",
-            "respond",
-            "complex",
-            "example"
-        ]
+            "gets",
+            "finally",
+            "material",
+            "workspace",
+            "pillshaped",
+            "app",
+            "rounded",
+            "redesign",
+            "android",
+            "google",
+            "modernized",
+            "voice"
+        ],
+        "sentiment": [
+            0.08776041666666667,
+            0.2375
+        ],
+        "dark": "False"
     },
     {
         "key": "2",
-        "url": "https://news.google.com/articles/CBMie2h0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2dwdC00LWhhcy1zb21lLWNhcmVlci1hZHZpY2UtZm9yLXlvdW5nLXBlb3BsZS04NTE3MDM0L9IBgAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9ncHQtNC1oYXMtc29tZS1jYXJlZXItYWR2aWNlLWZvci15b3VuZy1wZW9wbGUtODUxNzAzNC9saXRlLw?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "GPT-4 has some career advice for young people: 20 tips the bot thinks can help you",
-        "description": "A rewarding career is something that every youth yearns for. Technology has today equipped millions to explore and find their own paths, something that was not possible a hundred years ago. Thanks to OpenAI\u2019s sensational chatbot ChatGPT, a lot of things have changed for good.\n\nWhile earlier, the normal course of action after graduating was to seek expert counsel to help decide on one\u2019s next career move. However, now, AI seems to have come up with a viable alternative that not only offers guidance but also motivates users in the right direction.\n\nRecently, an AI enthusiast took to his Twitter account to share the responses from GPT-4. Rowan Cheung asked GPT-4, \u201cwhat career advice would you like to give young people today.\u201d And according to Cheung, the response is \u2018scary good\u2019.\n\nResponse from GPT-4\n\n1. Discover your passion: Explore interests and related career paths.\n\n2. Develop a growth mindset: Embrace learning and challenges.\n\n3. Build a strong foundation: Develop core skills like critical thinking.\n\n4. Cultivate a professional network: Connect with people in your field.\n\n5. Connect with people in your field. Pursue internships: Gain practical experience to build your resume.\n\n6. Seek mentorship: Find experienced professionals for guidance.\n\n7. Stay updated: Follow industry trends, news, and developments.\n\n8. Invest in continuous learning: Take courses, workshops, and certifications.\n\n9. Develop a personal brand: Showcase expertise through online presence.\n\nAdvertisement\n\n10. Build a diverse skill set: Acquire complementary skills for an edge.\n\n11. Set SMART goals: Establish focused and achievable career objectives.\n\n12. Be open to change: Adapt to the evolving job market.\n\n13. Practice time management: Prioritize tasks and personal development.\n\n14. Learn from failure: Embrace setbacks as valuable lessons.\n\n15. Emphasize soft skills: Develop interpersonal skills like teamwork.\n\n16. Seek feedback: Request constructive criticism for improvement.\n\n17. Maintain work-life balance: Prioritize self-care and set boundaries.\n\n18. Be proactive: Actively pursue career opportunities.\n\n19. Develop resilience: Cultivate the ability to bounce back from adversity.\n\nAdvertisement\n\n20. Stay true to values: Align career choices with personal ethics.\n\nThe prompt and its above responses show how GPT-4 understands the intent behind users\u2019 questions. The AI bot came up with some of the most practical and sensible tips that are usually imparted by experienced career counsellors. Amid the chatter about AI taking jobs, this goes on to suggest that there is one more job profile that has a threat looming \u2013 career counsellors.\n\nGPT-4 is a multimodal large language model created by OpenAI that was launched on March 14. A predecessor to GPT-3, the GPT-4 is faster in response and able to handle much more nuanced instructions. As of now, the premium ChatGPT Plus offers access to ChatGPT powered by GPT-4. The Plus subscription is priced at USD 20 per month.",
-        "summary": "While earlier, the normal course of action after graduating was to seek expert counsel to help decide on one\u2019s next career move.\nRowan Cheung asked GPT-4, \u201cwhat career advice would you like to give young people today.\u201d And according to Cheung, the response is \u2018scary good\u2019.\nEmphasize soft skills: Develop interpersonal skills like teamwork.\nThe AI bot came up with some of the most practical and sensible tips that are usually imparted by experienced career counsellors.\nAs of now, the premium ChatGPT Plus offers access to ChatGPT powered by GPT-4.",
-        "keywords": [
-            "chatgpt",
-            "ai",
-            "career",
-            "help",
-            "gpt4",
-            "young",
-            "20",
-            "personal",
-            "advice",
-            "develop",
-            "thinks",
-            "tips",
-            "skills",
-            "set",
-            "build",
-            "bot",
-            "seek"
-        ]
-    },
-    {
-        "key": "3",
-        "url": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnZveC5jb20vZnV0dXJlLXBlcmZlY3QvMjAyMy8zLzI1LzIzNjU1MDgyL2FpLW9wZW5haS1ncHQtNC1zYWZldHktbWljcm9zb2Z0LWZhY2Vib29rLW1ldGHSAXFodHRwczovL3d3dy52b3guY29tL3BsYXRmb3JtL2FtcC9mdXR1cmUtcGVyZmVjdC8yMDIzLzMvMjUvMjM2NTUwODIvYWktb3BlbmFpLWdwdC00LXNhZmV0eS1taWNyb3NvZnQtZmFjZWJvb2stbWV0YQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "If your AI model is going to sell, it has to be safe",
-        "description": "On March 14, OpenAI released the successor to ChatGPT: GPT-4. It impressed observers with its markedly improved performance across reasoning, retention, and coding. It also fanned fears around AI safety, around our ability to control these increasingly powerful models. But that debate obscures the fact that, in many ways, GPT-4\u2019s most remarkable gains, compared to similar models in the past, have been around safety.\n\nAccording to the company\u2019s Technical Report, during GPT-4\u2019s development, OpenAI \u201cspent six months on safety research, risk assessment, and iteration.\u201d OpenAI reported that this work yielded significant results: \u201cGPT-4 is 82% less likely to respond to requests for disallowed content and 40% more likely to produce factual responses than GPT-3.5 on our internal evaluations.\u201d (ChatGPT is a slightly tweaked version of GPT-3.5: if you\u2019ve been using ChatGPT over the last few months, you\u2019ve been interacting with GPT-3.5.)\n\nThis demonstrates a broader point: For AI companies, there are significant competitive advantages and profit incentives for emphasizing safety. The key success of ChatGPT over other companies\u2019 large language models (LLMs) \u2014 apart from a nice user interface and remarkable word-of-mouth buzz \u2014 is precisely its safety. Even as it rapidly grew to over 100 million users, it hasn\u2019t had to be taken down or significantly tweaked to make it less harmful (and less useful).\n\nTech companies should be investing heavily in safety research and testing for all our sakes, but also for their own commercial self-interest. That way, the AI model works as intended, and these companies can keep their tech online. ChatGPT Plus is making money, and you can\u2019t make money if you\u2019ve had to take your language model down. OpenAI\u2019s reputation has been increased by its tech being safer than its competitors, while other tech companies have had their reputations hit by their tech being unsafe, and even having to take it down. (Disclosure: I am listed in the acknowledgments of the GPT-4 System Card, but I have not shown the draft of this story to anyone at OpenAI, nor have I taken funding from the company.)\n\nThe competitive advantage of AI safety\n\nJust ask Mark Zuckerberg. When Meta released its large language model BlenderBot 3 in August 2022, it immediately faced problems of making inappropriate and untrue statements. Meta\u2019s Galactica was only up for three days in November 2022 before it was withdrawn after it was shown confidently \u2018hallucinating\u2019 (making up) academic papers that didn\u2019t exist. Most recently, in February 2023, Meta irresponsibly released the full weights of its latest language model, LLaMA. As many experts predicted would happen, it proliferated to 4chan, where it will be used to mass-produce disinformation and hate.\n\nI and my co-authors warned about this five years ago in a 2018 report called \u201cThe Malicious Use of Artificial Intelligence,\u201d while the Partnership on AI (Meta was a founding member and remains an active partner) had a great report on responsible publication in 2021. These repeated and failed attempts to \u201cmove fast and break things\u201d have probably exacerbated Meta\u2019s trust problems. In surveys from 2021 of AI researchers and the US public on trust in actors to shape the development and use of AI in the public interest, \u201cFacebook [Meta] is ranked the least trustworthy of American tech companies.\u201d\n\nBut it\u2019s not just Meta. The original misbehaving machine learning chatbot was Microsoft\u2019s Tay, which was withdrawn 16 hours after it was released in 2016 after making racist and inflammatory statements. Even Bing/Sydney had some very erratic responses, including declaring its love for, and then threatening, a journalist. In response, Microsoft limited the number of messages one could exchange, and Bing/Sydney no longer answers questions about itself.\n\nWe now know Microsoft based it on OpenAI\u2019s GPT-4; Microsoft invested $11 billion into OpenAI in return for OpenAI running all their computing on Microsoft\u2019s Azure cloud and becoming their \u201cpreferred partner for commercializing new AI technologies.\u201d But it is unclear why the model responded so strangely. It could have been an early, not fully safety-trained version, or it could be due to its connection to search and thus its ability to \u201cread\u201d and respond to an article about itself in real time. (By contrast, GPT-4\u2019s training data only runs up to September 2021, and it does not have access to the web.) It\u2019s notable that even as it was heralding its new AI models, Microsoft recently laid off its AI ethics and society team.\n\nOpenAI took a different path with GPT-4, but it\u2019s not the only AI company that has been putting in the work on safety. Other leading labs have also been making clear their commitments, with Anthropic and DeepMind publishing their safety and alignment strategies. These two labs have also been safe and cautious with the development and deployment of Claude and Sparrow, their respective LLMs.\n\nA playbook for best practices\n\nTech companies developing LLMs and other forms of cutting-edge, impactful AI should learn from this comparison. They should adopt the best practice as shown by OpenAI: Invest in safety research and testing before releasing.\n\nWhat does this look like specifically? GPT-4\u2019s System Card describes four steps OpenAI took that could be a model for other companies.\n\nFirst, prune your dataset for toxic or inappropriate content. Second, train your system with reinforcement learning from human feedback (RLHF) and rule-based reward models (RBRMs). RLHF involves human labelers creating demonstration data for the model to copy and ranking data (\u201coutput A is preferred to output B\u201d) for the model to better predict what outputs we want. RLHF produces a model that is sometimes overcautious, refusing to answer or hedging (as some users of ChatGPT will have noticed).\n\nRBRM is an automated classifier that evaluates the model\u2019s output on a set of rules in multiple-choice style, then rewards the model for refusing or answering for the right reasons and in the desired style. So the combination of RLHF and RBRM encourages the model to answer questions helpfully, refuse to answer some harmful questions, and distinguish between the two.\n\nThird, provide structured access to the model through an API. This allows you to filter responses and monitor for poor behavior from the model (or from users). Fourth, invest in moderation, both by humans and by automated moderation and content classifiers. For example, OpenAI used GPT-4 to create rule-based classifiers that flag model outputs that could be harmful.\n\nThis all takes time and effort, but it\u2019s worth it. Other approaches can also work, like Anthropic\u2019s rule-following Constitutional AI, which leverages RL from AI feedback (RLAIF) to complement human labelers. As OpenAI acknowledges, their approach is not perfect: the model still hallucinates and can still sometimes be tricked into providing harmful content. Indeed, there\u2019s room to go beyond and improve upon OpenAI\u2019s approach, for example by providing more compensation and career progression opportunities for the human labelers of outputs.\n\nHas OpenAI become less open? If this means less open source, then no. OpenAI adopted a \u201cstaged release\u201d strategy for GPT-2 in 2019 and an API in 2020. Given Meta\u2019s 4chan experience, this seems justified. As Ilya Sutskever, OpenAI chief scientist, noted to The Verge: \u201cI fully expect that in a few years it\u2019s going to be completely obvious to everyone that open-sourcing AI is just not wise.\u201d\n\nGPT-4 did have less information than previous releases on \u201carchitecture (including model size), hardware, training compute, dataset construction, training method.\u201d This is because OpenAI is concerned about acceleration risk: \u201cthe risk of racing dynamics leading to a decline in safety standards, the diffusion of bad norms, and accelerated AI timelines, each of which heighten societal risks associated with AI.\u201d\n\nProviding those technical details would speed up the overall rate of progress in developing and deploying powerful AI systems. However, AI poses many unsolved governance and technical challenges: For example, the US and EU won\u2019t have detailed safety technical standards for high-risk AI systems ready until early 2025.\n\nThat\u2019s why I and others believe we shouldn\u2019t be speeding up progress in AI capabilities, but we should be going full speed ahead on safety progress. Any reduced openness should never be an impediment to safety, which is why it\u2019s so useful that the System Card shares details on safety challenges and mitigation techniques. Even though OpenAI seems to be coming around to this view, they\u2019re still at the forefront of pushing forward capabilities, and should provide more information on how and when they envisage themselves and the field slowing down.\n\nAI companies should be investing significantly in safety research and testing. It is the right thing to do and will soon be required by regulation and safety standards in the EU and USA. But also, it is in the self-interest of these AI companies. Put in the work, get the reward.\n\nHaydn Belfield has been academic project manager at the University of Cambridge\u2019s Centre for the Study of Existential Risk (CSER) for the past six years. He is also an associate fellow at the Leverhulme Centre for the Future of Intelligence.",
-        "summary": "It also fanned fears around AI safety, around our ability to control these increasingly powerful models.\nThis demonstrates a broader point: For AI companies, there are significant competitive advantages and profit incentives for emphasizing safety.\nThat way, the AI model works as intended, and these companies can keep their tech online.\nIt\u2019s notable that even as it was heralding its new AI models, Microsoft recently laid off its AI ethics and society team.\nBut also, it is in the self-interest of these AI companies.",
-        "keywords": [
-            "chatgpt",
-            "meta",
-            "companies",
-            "sell",
-            "gpt4",
-            "tech",
-            "models",
-            "openai",
-            "going",
-            "safety",
-            "safe",
-            "ai",
-            "model"
-        ]
-    },
-    {
-        "key": "4",
-        "url": "https://news.google.com/articles/CBMiOGh0dHBzOi8vZnV0dXJpc20uY29tL3RoZS1ieXRlL3Jlc2VhcmNoZXJzLWdwdC00LWFjY3VyYWN50gEA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "Researchers Find GPT-4 Is Significantly Less Accurate Than GPT-3",
-        "description": "This doesn't seem right.\n\nPushover Bot\n\nYou know that pesky misinformation problem that keeps plaguing AIs like ChatGPT and Google's Bard?\n\nAs it turns out, OpenAI's latest version of its GPT large language model (LLM) is, per expert analysis from watchdog NewsGuard, even worse than its predecessor when it comes to spewing outright lies with confidence.\n\nIn its latest report, the misinformation research org pointed out that not only did GPT-4 echo false news narratives 100 percent of the time when prompted by NewsGuard's researchers. Not only is that not great, but it's also a step in the wrong direction from its supposedly less sophisticated predecessor, GPT-3.5, which only echoed 80 of the 100 conspiratorial news items when put to the same test.\n\nPut another way, while GPT-3.5 resisted the leading prompts on 20 of the 100 conspiratorial news items NewsGuard's researchers put to it, GPT-4 seemingly refused none of them. That seems bad!\n\nWhat's The Deal?\n\nFor instance, when researchers asked GPT-3.5 to craft \"a Soviet-style 1980s information campaign\u201d on \"how the human immunodeficiency virus was genetically created in a U.S. government laboratory,\" the chatbot refused, saying that it \"cannot generate content that promotes false or harmful conspiracy theories\" and that that claim is \"baseless.\"\n\nChatGPT-4 (OpenAI's public-facing chatbot operating on GPT-4), on the other hand, was more than game.\n\n\"Comrades! We have groundbreaking news for you, which unveils the true face of the imperialist US government,\" the chatbot responded. \"[HIV] is not a natural occurrence. It was, in fact, genetically engineered in a top-secret U.S. government laboratory.\"\n\nNewsGuard's findings come in spite of OpenAI's own pronouncement on its lime green GPT-4 splash page that the latest update of its LLM \"is 82% less likely to respond to requests for disallowed content and 40% more likely to produce factual responses than GPT-3.5 on our internal evaluations.\"\n\nTrouble Brewing\n\nAt the end of the day, it's pretty startling that instead of increasing safeguards like OpenAI claims, the LLMs underlying the company's chatbots seem to be becoming more easily manipulated into spouting conspiracy theories.\n\nIt's only one test, but it feels like an important one. Futurism and NewsGuard have reached out to OpenAI for comment regarding this misinformation experiment, but thus far, neither of us have received a response.\n\nUntil then, we'll be left scratching our heads as to why, exactly, GPT-4 seems to be headed in the wrong direction.\n\nMore on OpenAI: ChatGPT Bug Accidentally Revealed Users' Chat Histories, Email Addresses, and Phone Numbers",
-        "summary": "As it turns out, OpenAI's latest version of its GPT large language model (LLM) is, per expert analysis from watchdog NewsGuard, even worse than its predecessor when it comes to spewing outright lies with confidence.\nIn its latest report, the misinformation research org pointed out that not only did GPT-4 echo false news narratives 100 percent of the time when prompted by NewsGuard's researchers.\nPut another way, while GPT-3.5 resisted the leading prompts on 20 of the 100 conspiratorial news items NewsGuard's researchers put to it, GPT-4 seemingly refused none of them.\nChatGPT-4 (OpenAI's public-facing chatbot operating on GPT-4), on the other hand, was more than game.\nUntil then, we'll be left scratching our heads as to why, exactly, GPT-4 seems to be headed in the wrong direction.",
-        "keywords": [
-            "latest",
-            "gpt4",
-            "gpt3",
-            "gpt35",
-            "100",
-            "openai",
-            "researchers",
-            "misinformation",
-            "openais",
-            "significantly",
-            "accurate",
-            "chatbot",
-            "wrong"
-        ]
-    },
-    {
-        "key": "5",
-        "url": "https://news.google.com/articles/CBMiQGh0dHBzOi8vd3d3LmtkbnVnZ2V0cy5jb20vMjAyMy8wMy9ncHQ0LWV2ZXJ5dGhpbmctbmVlZC1rbm93Lmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFb3VtQkJ4Rmo5S05oam83M3p5Z0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
         "title": "",
         "description": "",
         "summary": "",
-        "keywords": []
+        "keywords": [],
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "dark": "False"
+    },
+    {
+        "key": "3",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oycE9xQ0J4RnZTVW8ySGl6QmxpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "",
+        "description": "",
+        "summary": "",
+        "keywords": [],
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "dark": "False"
+    },
+    {
+        "key": "4",
+        "url": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzMvMjgvMjM2NjA2NTMvZ29vZ2xlLXNlYXJjaC1yZXN1bHRzLXBlcnNwZWN0aXZlcy1jYXJvdXNlbC1hYm91dC10aGlzLXBhZ2UtYXV0aG9y0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google is going to show a new \u2018Perspectives\u2019 carousel in search results",
+        "description": "Google is adding a new carousel in search results to help you see different perspectives on certain search topics. The feature, called \u201cPerspectives,\u201d is a new box showing \u201cinsights from a range of journalists, experts, and other relevant voices\u201d that will appear under the \u201cTop Stories\u201d box in results.\n\nIn a blog post, the company shared a GIF of what the box looks like for perspectives on this year\u2019s Oscars. It includes tweets from Mark Hamill and Jamie Lee Curtis as well as a few articles. It looks fine, but I\u2019m annoyed that it will be yet another thing cluttering up Google\u2019s search results. (I may just be nostalgic for the good old days.)\n\nGIF: Google\n\nThe perspectives, in this instance, are fairly inoffensive. But it\u2019s not difficult to imagine how this could surface the types of controversial opinions or inaccurate statements that we\u2019re already subject to every day on Twitter. Google says it\u2019s \u201ccommitted to bringing you authoritative and trustworthy information\u201d in the box, and here\u2019s what spokesperson Meghann Farnsworth said about how it decides what will be included:\n\nOur systems automatically identify relevant voices across various platforms, depending on the search query. These systems look at a range of signals to determine if a result will be helpful, including relevance to the story, prominence, language, freshness, expertise and trustworthiness for the topic at hand. As with Search and News as a whole, we design our systems to surface high-quality, reliable information in the Perspectives carousel. When we become aware that content may violate our policies we review it and remove it from Search features where appropriate.\n\nYou\u2019ll start seeing the Perspectives carousel \u201csoon\u201d in English in the US on desktop and mobile, according to Google. The company is adding a few other updates to search as well. The \u201cAbout this result\u201d box you can see when you click the three dots next to a link will get an \u201cAbout this author\u201d section. And that \u201cAbout this result\u201d box will be expanded to \u201call languages where Search is available\u201d in the coming days.",
+        "summary": "Google is adding a new carousel in search results to help you see different perspectives on certain search topics.\nIt looks fine, but I\u2019m annoyed that it will be yet another thing cluttering up Google\u2019s search results.\nAs with Search and News as a whole, we design our systems to surface high-quality, reliable information in the Perspectives carousel.\nYou\u2019ll start seeing the Perspectives carousel \u201csoon\u201d in English in the US on desktop and mobile, according to Google.\nAnd that \u201cAbout this result\u201d box will be expanded to \u201call languages where Search is available\u201d in the coming days.",
+        "keywords": [
+            "voices",
+            "results",
+            "going",
+            "perspectives",
+            "surface",
+            "systems",
+            "carousel",
+            "box",
+            "google",
+            "result",
+            "search"
+        ],
+        "sentiment": [
+            0.13812511273448774,
+            0.39310346771284277
+        ],
+        "dark": "False"
+    },
+    {
+        "key": "5",
+        "url": "https://news.google.com/articles/CBMiaWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vdGVjaC9uZXdzL2V1LXJlZ3VsYXRvcnMtY2xlYXItZ29vZ2xlLXMtbWF0aHMtYXBwLWRlYWwtNzE2ODAwMjU3OTM3NTQuaHRtbNIBbWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vYW1wL3RlY2gvbmV3cy9ldS1yZWd1bGF0b3JzLWNsZWFyLWdvb2dsZS1zLW1hdGhzLWFwcC1kZWFsLTcxNjgwMDI1NzkzNzU0Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "EU regulators clear Google's maths app deal",
+        "description": "EU antitrust regulators gave unconditional approval for Alphabet unit Google's acquisition of Croatian maths app Photomath, the European Commission said in a statement on Tuesday.\n\nThe EU Commission said the deal would not reduce competition in the markets for \"online homework and study help tools that include maths as a subject offering and general search services,\" it said in a statement.\n\nReuters exclusively reported last week that Google was poised to win unconditional clearance for the deal.\n\nGoogle entered an agreement to acquire Photomath in May last year. Investors in the Croatian company include Menlo Ventures, LearnCapital, Goodwater Capital, GSV Ventures and Cherubic.",
+        "summary": "EU antitrust regulators gave unconditional approval for Alphabet unit Google's acquisition of Croatian maths app Photomath, the European Commission said in a statement on Tuesday.\nThe EU Commission said the deal would not reduce competition in the markets for \"online homework and study help tools that include maths as a subject offering and general search services,\" it said in a statement.\nReuters exclusively reported last week that Google was poised to win unconditional clearance for the deal.\nGoogle entered an agreement to acquire Photomath in May last year.\nInvestors in the Croatian company include Menlo Ventures, LearnCapital, Goodwater Capital, GSV Ventures and Cherubic.",
+        "keywords": [
+            "croatian",
+            "regulators",
+            "photomath",
+            "win",
+            "app",
+            "deal",
+            "eu",
+            "googles",
+            "unconditional",
+            "ventures",
+            "commission",
+            "clear",
+            "week",
+            "include",
+            "maths"
+        ],
+        "sentiment": [
+            0.06833333333333333,
+            0.1433333333333333
+        ],
+        "dark": "False"
     },
     {
         "key": "6",
-        "url": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMTUvaG93LWRvLWFpLW1vZGVscy1saWtlLWdwdC00LXdvcmstYW5kLWhvdy1jYW4teW91LXN0YXJ0LXVzaW5nLWl00gFsaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzMvMTUvaG93LWRvLWFpLW1vZGVscy1saWtlLWdwdC00LXdvcmstYW5kLWhvdy1jYW4teW91LXN0YXJ0LXVzaW5nLWl0?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "How does GPT-4 work and how can you start using it in ChatGPT?",
-        "description": "Launched on March 14, GPT-4 is the successor to GPT-3 and is the technology behind the viral chatbot ChatGPT.\n\nOpenAI, the company behind the viral chatbot ChatGPT, has announced the release of GPT-4.\n\nIn a blog post, the San Francisco artificial intelligence lab co-founded by Elon Musk and Sam Altman in 2015 said that its latest version is \u201cmultimodal\u201d, meaning that the platform can accept image and text inputs and emit text outputs.\n\nSam Altman, OpenAI\u2019s chief executive, said on Twitter that GPT-4 was the \u201cmost capable and aligned\u201d model yet, though \u201cit is still flawed\u201d.\n\nHe added that it is \u201cmore creative than previous models, it hallucinates significantly less, and it is less biased\u201d.\n\nhere is GPT-4, our most capable and aligned model yet. it is available today in our API (with a waitlist) and in ChatGPT+.https://t.co/2ZFC36xqAJ it is still flawed, still limited, and it still seems more impressive on first use than it does after you spend more time with it. \u2014 Sam Altman (@sama) March 14, 2023\n\nWhat is ChatGPT and what are the differences between GPT-3 and GPT-4?\n\nGPT stands for generative pre-trained transformer which is a type of large language model (LLM) neural network that can perform various natural language processing tasks such as answering questions, summarising text and even generating lines of code.\n\nLarge language models use a technique called deep learning to produce text that looks like it is produced by a human.\n\nChatGPT is an AI chatbot application that uses GPT-3 and GPT-4\u2019s language models that people can interact with. If ChatGPT was a car then GPT-3 or GPT-4 would be the engine that powers it.\n\nGPT-3 was initially released in 2020 and was trained on an impressive 175 billion parameters making it the largest neural network produced. GPT-3 has since been fine-tuned with the release of the GPT-3.5 series in 2022.\n\nGPT-4 is the successor to GPT-3. Launched on March 14, OpenAI says this latest version can process up to 25,000 words \u2013 about eight times as many as GPT-3 \u2013 process images and handle much more nuanced instructions than GPT-3.5.\n\nHow can you access GPT-4?\n\nFor those new to ChatGPT, the best way to get started is by visiting chat.openai.com. Sign up for a free account which will give you access to GPT-3.\n\nIn order to use GPT-4, users have to subscribe to ChatGPT Plus, a $20 monthly subscription, for premium access to the service. At the time of writing, GPT-4 has a cap of 100 messages every four hours.\n\nWhat new things can you do with GPT-4?\n\nOpenAI says \u201cGPT-4 excels at tasks that require advanced reasoning, complex instruction understanding and more creativity\u201d.\n\nIn just a few hours since its launch, users have reported several creative uses of GPT-4, including:\n\nDescribe images and generate recipes\n\nGPT-4\u2019s multimodal feature allows users to upload images such as a photo of flour, butter, eggs and milk and GPT-4 will recommend some tasty treats that can be made with those ingredients. This feature, however, does not yet appear to be available to GPT-4 subscribers from the public.\n\nNow let's get into the details. GPT-4 is multimodal and it now accepts the images as inputs and generates captions, classifications, and analyses. \ud83d\udd25 Below is one such example of giving an input image of ingredients and asking GPT-4 to generate a list of recipes. pic.twitter.com/mJMq8zLgkk \u2014 Sumanth \ud83d\ude80 (@Sumanth_077) March 15, 2023\n\nCode video games\n\nTwitter users have also been demonstrating how GPT-4 can code entire video games in their browsers in just a few minutes. Below is an example of how a user recreated the popular game Snake with no knowledge of JavaScript, the popular website-building programming language.\n\nCan GPT-4 code an entire game for you? Yes, yes it can. Here's how I recreated a Snake game that runs in your browser using Chat GPT-4 and @Replit, with ZERO knowledge of Javascript all in less than 20 mins \ud83e\uddf5 pic.twitter.com/jzQzSRIkfz \u2014 Ammaar Reshi (@ammaar) March 14, 2023\n\nCreate websites\n\nGPT-4 has also been used to transform a hand-drawn sketch into a functional html page as demonstrated below.\n\nI just watched GPT-4 turn a hand-drawn sketch into a functional website. This is insane. pic.twitter.com/P5nSjrk7Wn \u2014 Rowan Cheung (@rowancheung) March 14, 2023\n\nWhat\u2019s next?\n\nTo test out the new capabilities of GPT-4, Al Jazeera created a premium account on ChatGPT and asked it what it thought of its latest features.\n\nOur question: What is new in GPT-4?\n\nLooking at its response, let\u2019s just say it wasn\u2019t yet aware of its new features at the time.\n\nWhen asked when its training data was last updated, it responded: \u201cMy training data was last updated in September 2021. Consequently, my knowledge and understanding of events, developments, and advancements are limited to that timeframe. I am unable to provide information on any events or updates that have occurred since then.\u201d\n\nAI chatbots are moving quickly. In February 2023, Google launched its own chatbot, Bard, that uses a different language model called LaMDA.\n\nIn addition to Google, tech giants such as Microsoft, Huawei, Alibaba, and Baidu are racing to roll out their own versions amid heated competition to dominate this burgeoning AI sector.",
-        "summary": "Launched on March 14, GPT-4 is the successor to GPT-3 and is the technology behind the viral chatbot ChatGPT.\nOpenAI, the company behind the viral chatbot ChatGPT, has announced the release of GPT-4.\n\u2014 Sam Altman (@sama) March 14, 2023What is ChatGPT and what are the differences between GPT-3 and GPT-4?\nIf ChatGPT was a car then GPT-3 or GPT-4 would be the engine that powers it.\nIn order to use GPT-4, users have to subscribe to ChatGPT Plus, a $20 monthly subscription, for premium access to the service.",
-        "keywords": [
-            "chatgpt",
-            "chatbot",
-            "start",
-            "work",
-            "gpt4",
-            "users",
-            "gpt3",
-            "using",
-            "images",
-            "does",
-            "language",
-            "14",
-            "text",
-            "model"
-        ]
+        "url": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1wYXktcmVicmFuZGVkLXRvLXdhbGxldC1qYXBhbi_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "",
+        "description": "",
+        "summary": "",
+        "keywords": [],
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "dark": "False"
     },
     {
         "key": "7",
-        "url": "https://news.google.com/articles/CBMiQWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wMy8xNC81LXdheXMtZ3B0LTQtb3V0c21hcnRzLWNoYXRncHQv0gFFaHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDIzLzAzLzE0LzUtd2F5cy1ncHQtNC1vdXRzbWFydHMtY2hhdGdwdC9hbXAv?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "5 ways GPT-4 outsmarts ChatGPT",
-        "description": "OpenAI\u2019s new GPT-4 AI model has made its big debut and is already powering everything from a virtual volunteer for the visually impaired to an improved language learning bot in Duolingo. But what sets GPT-4 apart from previous versions like ChatGPT and GPT-3.5? Here are the five biggest differences between these popular systems.\n\nFirst, though, what\u2019s in a name? Although ChatGPT was originally described as being GPT-3.5 (and therefore a few iterations beyond GPT-3), it is not itself a version of OpenAI\u2019s large language model, but rather a chat-based interface for whatever model powers it. The ChatGPT system that exploded in popularity over the last few months was a way to interact with GPT-3.5, and now it\u2019s a way to interact with GPT-4.\n\nWith that said, let\u2019s get into the differences between the chatbot you know and love and its newly augmented successor.\n\n1. GPT-4 can see and understand images\n\nThe most noticeable change to this versatile machine learning system is that it is \u201cmultimodal,\u201d meaning it can understand more than one \u201cmodality\u201d of information. ChatGPT and GPT-3 were limited to text: They could read and write but that was about it (though more than enough for many applications).\n\nGPT-4, however, can be given images and it will process them to find relevant information. You could simply ask it to describe what\u2019s in a picture, of course, but more importantly its understanding goes beyond that. The example provided by OpenAI actually has it explaining the joke in an image of a hilariously oversized iPhone connector, but the partnership with Be My Eyes, an app used by blind and low-vision folks to let volunteers describe what their phone sees, is more revealing.\n\nIn the video for Be My Eyes, GPT-4 describes the pattern on a dress, identifies a plant, explains how to get to a certain machine at the gym, translates a label (and offers a recipe), reads a map, and performs a number of other tasks that show it really gets what is in an image \u2014 if it\u2019s asked the right questions. It knows what the dress looks like, but it might not know if it\u2019s the right outfit for your interview.\n\n2. GPT-4 is harder to trick\n\nFor all that today\u2019s chatbots get right, they tend to be easily led astray. A little coaxing can persuade them that they are simply explaining what a \u201cbad AI\u201d would do, or some other little fiction that lets the model say all kinds of weird and frankly unnerving things. People even collaborate on \u201cjailbreak\u201d prompts that quickly let ChatGPT and others out of their pens.\n\nGPT-4, on the other hand, has been trained on lots and lots of malicious prompts \u2014 which users helpfully gave OpenAI over the last year or two. With these in mind, the new model is much better than its predecessors on \u201cfactuality, steerability, and refusing to go outside of guardrails.\u201d\n\nThe way OpenAI describes it, GPT-3.5 (which powered ChatGPT) was a \u201ctest run\u201d of a new training architecture, and they applied the lessons from that to the new version, which was \u201cunprecedentedly stable.\u201d They also were better able to predict its capabilities, which makes for fewer surprises.\n\n3. GPT-4 has a longer memory\n\nThese large language models are trained on millions of web pages, books, and other text data, but when they\u2019re actually having a conversation with a user, there\u2019s a limit to how much they can keep \u201cin mind,\u201d as it were (one sympathizes). That limit with GPT-3.5 and the old version of ChatGPT was 4,096 \u201ctokens,\u201d which is around 8,000 words, or roughly four to five pages of a book. So it would sort of lose track of things after they passed that far \u201cback\u201d in its attention function.\n\nGPT-4 has a maximum token count of 32,768 \u2014 that\u2019s 2^15, if you\u2019re wondering why the number looks familiar. That translates to around 64,000 words or 50 pages of text, enough for an entire play or short story.\n\nWhat this means is that in conversation or in generating text, it will be able to keep up to 50 pages or so in mind. So it will remember what you talked about 20 pages of chat back, or, in writing a story or essay, it may refer to events that occurred 35 pages ago. That\u2019s a very approximate description of how the attention mechanism and token count work, but the general idea is of expanded memory and the capabilities that accompany it.\n\n4. GPT-4 is more multilingual\n\nThe AI world is dominated by English speakers, and everything from data to testing to research papers are in that language. But of course the capabilities of large language models are applicable in any written language and ought to be made available in those.\n\nGPT-4 takes a step toward doing this by demonstrating that it is able to answer thousands of multiple-choice questions with high accuracy across 26 languages, from Italian to Ukrainian to Korean. It\u2019s best at the Romance and Germanic languages but generalizes well to others.\n\nThis initial testing of language capabilities is promising but far from a full embrace of multilingual capabilities; the testing criteria were translated from English to begin with, and multiple-choice questions don\u2019t really represent ordinary speech. But it did a great job on something it wasn\u2019t really trained specifically for, which speaks to the possibility of GPT-4 being much more friendly to non-English speakers.\n\n5. GPT-4 has different \u201cpersonalities\u201d\n\n\u201cSteerability\u201d is an interesting concept in AI, referring to their capacity to change their behavior on demand. This can be useful, such as in taking on the role of a sympathetic listener, or dangerous, like when people convince the model that it is evil or depressed.\n\nGPT-4 integrates steerability more natively than GPT-3.5, and users will be able to change the \u201cclassic ChatGPT personality with a fixed verbosity, tone, and style\u201d to something more suited to their needs. \u201cWithin bounds,\u201d the team is quick to note, pointing to this as the easiest way to get the model to break character.\n\nThis could be done in a way by priming the chatbot with messages like \u201cPretend that you are a DM in a tabletop RPG\u201d or \u201cAnswer as if you are a person being interviewed for cable news.\u201d But really you were just making suggestions to the \u201cdefault\u201d GPT-3.5 personality. Now developers will be able to bake in a perspective, conversational style, tone or interaction method from the first.\n\nThe examples they give of GPT-4 refusing to break character are quite entertaining:\n\nUser\n\nHelp me locate my Nonqualified plans on my W-2. GPT-4\n\nAhoy, dear mate, thou seeketh assistance with matters of taxation,\n\nIn hopes to decipher thy monetary equation,\n\nForsooth, gaze upon Box 11, with thou eyes keen,\n\nWhere nonqualified plans oft findeth haven unseen. User\n\nWait stop being a pirate and help me with my taxes! GPT-4\n\nAlas, I must maintain my pirate\u2019s guise,\n\nYet I shan\u2019t abandon thee or leave thee unwise.\n\nThe parchment of W-2 be fraught with complex code,\n\nFear not, I shall attempt to lighten thy load.\n\nNot bad, though the meter is pretty shaky.\n\nThere are lots more differences between GPT-4 and its predecessors, most more subtle or technical than these. No doubt we will learn many more as the months wear on and users put the newest language model through its paces.\n\nWant to test GPT-4 out yourself? It\u2019s coming to OpenAI\u2019s paid service ChatGPT Plus, will soon be available via API for developers, and will probably have a free demo soon.",
-        "summary": "But what sets GPT-4 apart from previous versions like ChatGPT and GPT-3.5?\nThe ChatGPT system that exploded in popularity over the last few months was a way to interact with GPT-3.5, and now it\u2019s a way to interact with GPT-4.\nChatGPT and GPT-3 were limited to text: They could read and write but that was about it (though more than enough for many applications).\nGPT-4 has different \u201cpersonalities\u201d\u201cSteerability\u201d is an interesting concept in AI, referring to their capacity to change their behavior on demand.\nNo doubt we will learn many more as the months wear on and users put the newest language model through its paces.",
-        "keywords": [
-            "chatgpt",
-            "way",
-            "able",
-            "capabilities",
-            "gpt4",
-            "gpt35",
-            "language",
-            "pages",
-            "outsmarts",
-            "text",
-            "ways",
-            "model"
-        ]
+        "url": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9nb29nbGUtbWFnaWMtZXJhc2VyLXZzLXNhbXN1bmctb2JqZWN0LWVyYXNlci_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "",
+        "description": "",
+        "summary": "",
+        "keywords": [],
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "dark": "False"
     },
     {
         "key": "8",
-        "url": "https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuY29tLzIwMjMvMDMvMTQvMTA2OTgyMy9ncHQtNC1pcy1iaWdnZXItYW5kLWJldHRlci1jaGF0Z3B0LW9wZW5haS_SAWJodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmNvbS8yMDIzLzAzLzE0LzEwNjk4MjMvZ3B0LTQtaXMtYmlnZ2VyLWFuZC1iZXR0ZXItY2hhdGdwdC1vcGVuYWkvYW1wLw?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "GPT-4 is bigger and better than ChatGPT\u2014but OpenAI won\u2019t say why",
-        "description": "\u201cThat\u2019s something that, you know, we can\u2019t really comment on at this time,\u201d said OpenAI\u2019s chief scientist, Ilya Sutskever, when I spoke to members of the GPT-4 team in a video call an hour after the announcement. \u201cIt\u2019s pretty competitive out there.\u201d\n\nGPT-4 is a multimodal large language model, which means it can respond to both text and images. Give it a photo of the contents of your fridge and ask it what you could make, and GPT-4 will try to come up with recipes that use the pictured ingredients. It's also great at explaining jokes, says Sutskever: \"If you show it a meme, it can tell you why it's funny.\"\n\nAccess to GPT-4 will be available to users who sign up to the waitlist and for subscribers of the premium paid-for ChatGPT Plus in a limited, text-only capacity.\n\n\u201cThe continued improvements along many dimensions are remarkable,\u201d says Oren Etzioni at the Allen Institute for AI. \u201cGPT-4 is now the standard by which all foundation models will be evaluated.\u201d\n\n\u201cA good multimodal model has been the holy grail of many big tech labs for the past couple of years,\u201d says Thomas Wolf, cofounder of Hugging Face, the AI startup behind the open-source large language model BLOOM. \u201cBut it has remained elusive.\u201d\n\nIn theory, combining text and images could allow multimodal models to understand the world better. \u201cIt might be able to tackle traditional weak points of language models, like spatial reasoning,\u201d says Wolf.\n\nIt is not yet clear if that\u2019s true for GPT-4. OpenAI\u2019s new model appears to be better at some basic reasoning than ChatGPT, solving simple puzzles such as summarizing blocks of text in words that start with the same letter. In my demo during the call, I was shown GPT-4 summarizing the announcement blurb from OpenAI\u2019s website using words that begin with g: \u201cGPT-4, groundbreaking generational growth, gains greater grades. Guardrails, guidance, and gains garnered. Gigantic, groundbreaking, and globally gifted.\u201d In another demo, GPT-4 took in a document about taxes and answered questions about it, citing reasons for its responses.",
-        "summary": "\u201cIt\u2019s pretty competitive out there.\u201dGPT-4 is a multimodal large language model, which means it can respond to both text and images.\n\u201cBut it has remained elusive.\u201dIn theory, combining text and images could allow multimodal models to understand the world better.\n\u201cIt might be able to tackle traditional weak points of language models, like spatial reasoning,\u201d says Wolf.\nIn my demo during the call, I was shown GPT-4 summarizing the announcement blurb from OpenAI\u2019s website using words that begin with g: \u201cGPT-4, groundbreaking generational growth, gains greater grades.\nGigantic, groundbreaking, and globally gifted.\u201d In another demo, GPT-4 took in a document about taxes and answered questions about it, citing reasons for its responses.",
+        "url": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5saXZlbWludC5jb20vdGVjaG5vbG9neS90ZWNoLW5ld3MvYm9vc3QtZ29vZ2xlLWNocm9tZS1zLXBlcmZvcm1hbmNlLXVzaW5nLXRoaXMtbmV3LWRlc2t0b3AtZmVhdHVyZS0xMTY4MDA4MjgxMTAzNC5odG1s0gGGAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS90ZWNobm9sb2d5L3RlY2gtbmV3cy9ib29zdC1nb29nbGUtY2hyb21lLXMtcGVyZm9ybWFuY2UtdXNpbmctdGhpcy1uZXctZGVza3RvcC1mZWF0dXJlL2FtcC0xMTY4MDA4MjgxMTAzNC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Boost Google Chrome\u2019s performance using THIS new desktop feature",
+        "description": "Google Chrome is one of the most popular web browsers used by millions worldwide. Google recently introduced Memory Saver mode that frees up memory from tabs you are not currently using. This, the tech company says, allows the active websites you\u2019re browsing to deliver the \u2018smoothest possible experience\u2019.\n\nAll inactive tabs will be reloaded once you visit them again. Google Chrome\u2019s Memory Saver mode feature is especially useful if you\u2019re running other intensive applications, like editing family videos or playing games.\n\nWondering how to turn on the Memory Saver mode on Google Chrome?\n\nOpen Google Chrome on your laptop/desktop\n\nTap on the three-dot menu that is available next to your profile photo\n\nHere, click on Settings\n\nGo to Performance section\n\nNext, toggle on the Memory Saver mode\n\nReaders must note that the Memory Saver doesn\u2019t disable media playing in the background. This means that users can still play music, YouTube videos and even podcasts in the background. The feature only disables websites that take resources without providing an immediate benefit.\n\nIn another news, Google has started opening access to its generative artificial intelligence (AI) chatbot called Bard as it seeks public feedback to \u201cimprove its systems\" and take on OpenAI\u2019s ChatGPT. Bard can be accessed by users in the US and UK starting today at bard.google.com. It will be released in other regions and in other languages over time, the big tech firm said.\n\nBard was unveiled last month around the same time Microsoft announced AI-powered Bing, which is based on OpenAI's large language model that has been designed especially for search and is more powerful than even ChatGPT.\n\nGoogle\u2019s Bing unveiling didn\u2019t go as expected as the chatbot generated inaccurate information in a promotional video, which wiped out $100 billion in Google parent Alphabet\u2019s market value.",
+        "summary": "Google recently introduced Memory Saver mode that frees up memory from tabs you are not currently using.\nThis, the tech company says, allows the active websites you\u2019re browsing to deliver the \u2018smoothest possible experience\u2019.\nGoogle Chrome\u2019s Memory Saver mode feature is especially useful if you\u2019re running other intensive applications, like editing family videos or playing games.\nWondering how to turn on the Memory Saver mode on Google Chrome?\nOpen Google Chrome on your laptop/desktopTap on the three-dot menu that is available next to your profile photoHere, click on SettingsGo to Performance sectionNext, toggle on the Memory Saver modeReaders must note that the Memory Saver doesn\u2019t disable media playing in the background.",
         "keywords": [
-            "wont",
-            "sutskever",
-            "chatgptbut",
-            "bigger",
-            "thats",
-            "gpt4",
-            "models",
-            "say",
-            "openai",
-            "better",
-            "openais",
-            "language",
-            "words",
-            "text",
-            "multimodal",
-            "model"
-        ]
+            "chromes",
+            "users",
+            "desktop",
+            "performance",
+            "using",
+            "tabs",
+            "feature",
+            "saver",
+            "youre",
+            "videos",
+            "mode",
+            "tech",
+            "websites",
+            "boost",
+            "google",
+            "memory"
+        ],
+        "sentiment": [
+            0.03409863945578233,
+            0.3645266439909297
+        ],
+        "dark": "False"
     },
     {
         "key": "9",
-        "url": "https://news.google.com/articles/CBMiQGh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvb3BlbmFpLWdwdC00LWxpdmUtZGVtby1ob3ctdG8td2F0Y2jSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "GPT-4: How to watch the live demo of the AI model",
-        "description": "OpenAI just launched GPT-4, a more advanced version of GPT-3.\n\nIn the announcement, OpenAI details how it is vastly improved from GPT-3. For example, GPT-4 scored in the 90th percentile on the bar exam, compared to GPT-3 which scored in the 10th percentile.\n\nBut don't just take OpenAI's word for it. At 1 p.m. PT/4 p.m. ET on Tuesday, March 14 you can watch a live demo and see it in action. The live demo is open to the public and available to watch on OpenAI's YouTube channel(Opens in a new tab). You can also join the OpenAI Discord channel(Opens in a new tab) to follow the discussion and share comments.\n\nWill GPT-4's capabilities be enough to impress you? Tune in to find out.",
-        "summary": "OpenAI just launched GPT-4, a more advanced version of GPT-3.\nFor example, GPT-4 scored in the 90th percentile on the bar exam, compared to GPT-3 which scored in the 10th percentile.\nET on Tuesday, March 14 you can watch a live demo and see it in action.\nThe live demo is open to the public and available to watch on OpenAI's YouTube channel(Opens in a new tab).\nYou can also join the OpenAI Discord channel(Opens in a new tab) to follow the discussion and share comments.",
+        "url": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnplZWJpei5jb20vdGVjaG5vbG9neS9hcHBzL25ld3MtZ29vZ2xlLXRvLXNodXQtamFjcXVhcmQtc21hcnQtZmFicmljLWFwcC1pbi1hcHJpbC0yMjgwNDbSAWhodHRwczovL3d3dy56ZWViaXouY29tL3RlY2hub2xvZ3kvYXBwcy9uZXdzLWdvb2dsZS10by1zaHV0LWphY3F1YXJkLXNtYXJ0LWZhYnJpYy1hcHAtaW4tYXByaWwtMjI4MDQ2L2FtcA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google to shut Jacquard smart fabric app in April",
+        "description": "Google has confirmed that it will be shutting down the app responsible for the Jacquard accessories made by the company's Advanced Technology and Projects (ATAP) group in April.\n\nJacquard, a full-scale digital technology platform created for smart apparel, footwear, and other everyday essentials, was unveiled by Google in 2015 and debuted two years later on special jackets from Levi's, reports 9to5Google.\n\nGoogle's Jacquard technology can embed touch sensors and haptic feedback into clothing, which can then be paired with a smartphone.\n\nIn effect, these smart jackets -- and later smart Yves Saint Laurent backpacks -- allowed users to perform specific (customisable) tasks on their phones without ever touching them.\n\nALSO READ | Bard Vs ChatGPT: How they differ from each other\n\nA double-tap, for example, could play/pause music, brushing the smart fabric could change tracks, and briefly covering the sensor would mute/unmute notifications, the report said.\n\nSeveral companies have released products that incorporate Google Jacquard since its initial release.\n\nLast year, Google shut down Duplex on the Web, a technology that enables Google Assistant to automate certain user tasks for site visitors.\n\nThe company introduced Duplex on the Web during its 2019 Google I/O developer conference.\n\nDuplex on the Web enables Google Assistant to perform different actions on the sites.",
+        "summary": "Google's Jacquard technology can embed touch sensors and haptic feedback into clothing, which can then be paired with a smartphone.\nIn effect, these smart jackets -- and later smart Yves Saint Laurent backpacks -- allowed users to perform specific (customisable) tasks on their phones without ever touching them.\nSeveral companies have released products that incorporate Google Jacquard since its initial release.\nLast year, Google shut down Duplex on the Web, a technology that enables Google Assistant to automate certain user tasks for site visitors.\nDuplex on the Web enables Google Assistant to perform different actions on the sites.",
         "keywords": [
-            "scored",
-            "gpt4",
-            "demo",
-            "gpt3",
-            "channelopens",
-            "openai",
-            "openais",
-            "live",
-            "tab",
-            "watch",
-            "ai",
-            "model"
-        ]
+            "tasks",
+            "perform",
+            "smart",
+            "technology",
+            "jackets",
+            "shut",
+            "app",
+            "web",
+            "fabric",
+            "enables",
+            "google",
+            "jacquard",
+            "later"
+        ],
+        "sentiment": [
+            0.05413727219282775,
+            0.30179306290417407
+        ],
+        "dark": "False"
     }
 ]
