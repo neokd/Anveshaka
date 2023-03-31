@@ -38,7 +38,7 @@ function Home() {
 
     return (
         <>
-            <div className="flex h-screen bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
+            <div className="flex h-screen bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black scroll-smooth">
                 <div className="m-auto">
                     <h1 className='text-slate-200 text-8xl font-bold font-face-sk'>{data.title}</h1>
                     <div className="relative flex w-full flex-wrap items-stretch mb-3 mt-2">

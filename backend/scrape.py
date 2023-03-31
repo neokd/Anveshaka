@@ -5,6 +5,11 @@ import json
 import nltk
 import engine
 import os
+import datetime
+
+from firebase_admin import firestore
+
+
 
 try:
     home_directory = os.path.expanduser( '~' )
@@ -14,10 +19,14 @@ try:
 except Exception:
     nltk.download('punkt')
 
+
+query = ''
 # Sample URL
 #https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9icmFuZC1zdG9yaWVzL2hvdy1nZWVrc2ZvcmdlZWtzLWlzLW1ha2luZy1wcm9ncmFtbWluZy1lYXNpZXItd29ybGR3aWRlLTExNjQ5MDc5ODQ3MDQ4Lmh0bWzSAXdodHRwczovL3d3dy5saXZlbWludC5jb20vYnJhbmQtc3Rvcmllcy9ob3ctZ2Vla3Nmb3JnZWVrcy1pcy1tYWtpbmctcHJvZ3JhbW1pbmctZWFzaWVyLXdvcmxkd2lkZS9hbXAtMTE2NDkwNzk4NDcwNDguaHRtbA?hl=en-IN&gl=IN&ceid=IN%3Aen
 
 def scrape_google_news(text):
+    global query
+    query = text
     url = f'https://news.google.com/search?for={text}'
     request_result = requests.get( url )
     soup = bs4.BeautifulSoup(request_result.text,"html.parser")
@@ -48,8 +57,12 @@ def scrape_google(text):
 
 def write_json(links):
     i=0
+    global query
     json_write = []
-    for link in links[:10]:
+    db = firestore.client()
+    doc_ref = db.collection(u'admin').document(f'history')
+    subcollection_ref = doc_ref.collection(u'search_results')
+    for link in links[:90]:
         article = Article(link, language="en")
         try:
             article.download()
@@ -58,6 +71,17 @@ def write_json(links):
         except ArticleException:
             pass
         print('-----------------------------------------> '+str(i))
+        now = datetime.datetime.now()
+    
+
+        subcollection_ref.add({
+            'key':str(i),
+            'searchKey': query,
+            'title': article.title.strip(),
+            "sentiment":engine.find_sentiment(article.summary.strip()),
+            'datetime':now.strftime("%Y-%m-%d %H:%M:%S"),
+        })
+    
         json_data = {
             "key":str(i),
             "url":link,
@@ -65,13 +89,14 @@ def write_json(links):
             "description": article.text,
             "summary":article.summary.strip(),
             "keywords":article.keywords,
-            "sentiment":engine.find_sentiment(article.text.strip()),
+            "sentiment":engine.find_sentiment(article.title.strip()),
             "dark": "False",
         }
         json_write.append(json_data)
         i+=1
     with open('temp.json','w') as json_file:
-        json.dump(json_write,json_file,indent=4, separators=(',', ': '))    
+        json.dump(json_write,json_file,indent=4, separators=(',', ': '))   
+     
 
 def extract_json():
     json_file = open('temp.json')
