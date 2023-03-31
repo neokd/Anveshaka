@@ -1,210 +1,232 @@
 [
     {
         "key": "0",
-        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5aWEtQUJ4RW5YWHczeVUtbjBDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5aWEtQUJ4SFdDckd5YVJBY1lDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
         "title": "NCLAT upholds fine imposed on Google by CCI",
         "description": "",
         "summary": "",
         "keywords": [
-            "cci",
             "imposed",
-            "upholds",
+            "nclat",
             "fine",
-            "google",
-            "nclat"
+            "upholds",
+            "cci",
+            "google"
         ],
         "sentiment": [
-            0.0,
-            0.0
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "1",
-        "url": "https://news.google.com/articles/CBMiPGh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyMy8wMy8yOS9nb29nbGUtdm9pY2UtbWF0ZXJpYWwteW91L9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "Google Voice finally gets Material You redesign on Android",
-        "description": "While Voice is not a Google Workspace app, it\u2019s sold as an \u201cadd-on\u201d to the suite and managed by that team. Google Voice for Android is now getting a Material You redesign.\n\nThis redesign starts with a tall Material You bottom bar that uses pill-shaped indicators to note your current tab. The FAB (floating action button) has changed from a circle into a rounded square. It does not disappear as you scroll.\n\nAt the top of the screen is a pill-shaped \u201cSearch Google Voice\u201d field, while the navigation drawer has been modernized with rounded top and bottom corners, as well as a wider panel.\n\nDynamic Color is leveraged through the app, replacing the dull gray from before. When you\u2019re viewing a conversation, the status and app bars are not merged.\n\nThe homescreen widgets also get a Material You treatment with a Dynamic Color background and modernized shapes.\n\nThis Voice update follows Google Tasks getting modernized in February. In terms of Android Workspace apps, Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat have all been updated. Jamboard is now the only Workspace-adjacent app without a revamp. On the web, Material You is available for Gmail, Drive, and Docs/Sheets/Slides.\n\nVersion 2023.03.20.518941070 of Google Voice for Android rolls out the Material You redesign. It\u2019s not widely rolled out yet via the Play Store.\n\nMore on Google Voice:",
-        "summary": "While Voice is not a Google Workspace app, it\u2019s sold as an \u201cadd-on\u201d to the suite and managed by that team.\nGoogle Voice for Android is now getting a Material You redesign.\nIn terms of Android Workspace apps, Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat have all been updated.\nVersion 2023.03.20.518941070 of Google Voice for Android rolls out the Material You redesign.\nMore on Google Voice:",
+        "url": "https://news.google.com/articles/CBMiVWh0dHBzOi8vZ2l6bW9kby5jb20vZ29vZ2xlLXBsYXktc3RvcmUtYW5kcm9pZC1pbmRpYS10aGlyZC1wYXJ0eS1hcHAtc3RvcmVzLTE4NTAyODAyNzXSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google Play Store Wriggles Way Out of Housing Third-Party App Stores in Android's Biggest Market",
+        "description": "Google will not have to host third-party Android app stores in the Indian version of its Play Store, following antitrust rulings from January. The company is still facing a $161 million fine from Indian regulators, though they have eased up on how Android should function in the country moving forward. This comes in the wake of global legal action against Google\u2019s anti-competitive actions across its entire business, as well as an EU ruling that might require Google and Apple to allow for more \u201copen markets \u201d down the line, including potentially making way for third party app stores .\n\nA few months back, Google was under antitr ust fire when the Competition Commission of India (CCI) ruled that the company had to be more permissive to third-party app stores and payment methods on its platform. It also ruled that Google could no longer withhold a license for the Android OS based on whether a manufacturer included Google branded apps pre-installed on the device.\n\nAdvertisement\n\nGoogle has since appealed the decision and will receive some relief through relaxed enforcement of four of the ten directives. The National Company Law Appellate Tribunal (NCLAT), which handles these kinds of appeals in India, is still requiring Google to pay the penalty fees. But Google won\u2019t have to host third-party Android app stores in the Play Store. Instead, users will still have to sideload an APK just like the olden days. This has been a practice on Android pretty much since its inception, and it\u2019s rumored that it might be how both Google and even Apple gets around a recent EU ruling requiring more \u201copen markets\u201d when it starts to go into effect next month (or so the rumors foretell).\n\nThe directive was meant to diversify Android\u2019s offerings in a market where it is the dominant operating system by over 90%. Google feared the directive because allowing Indian Android users to go through other app stores for app downloads and other content meant less time spent inside Google\u2019s virtual shops, as well as fewer opportunities for Google to take a cut on paid content.\n\nG/O Media may get a commission 58% Off + Coupon IPL Hair Removal Device Zzzzzap!\n\nThis Amazon bestseller zaps hair from hard-to-reach areas so you don't have to shave often. Clip Coupon and Buy for $34 at Amazon Advertisement\n\nAdvertisement\n\nGoogle offered a statement to TechCrunch:\n\nWe are grateful for the opportunity given by the NCLAT to make our case. We are reviewing the order and evaluating our legal options.\n\nAdvertisement\n\nGoogle has agreed to other changes on the Android platform as it exists in India. Android will allow for more \u201cuser choice\u201d on default search engines and even in-app billing, so that the company isn\u2019t always taking a 30% cut with each in-app transaction. It has also loosened its requirements for which Google apps are installed by default. Indian OEMs will be allowed to pick and choose the apps as they please rather than be required to include the whole kit and caboodle.\n\nGoogle continues to face legal concerns over its growing business elsewhere in the world. In the E U, it racked up a whopping $ 9.7 Billion in fines over anti-competitive practices. And in the U.S., Alphabet is butting heads with the Department of Justice over its ad-tech business.\n\n\n\nAdvertisement\n\nIt\u2019s currently unclear how strictly the EU\u2019s Digital Markets Act will affect Android, and if it will have to make similar appeals there to the ones it did in India . But given that the EU is forcing Apple to adopt USB-C, it\u2019s worth keeping track of legal restrictions placed on Google and Android in their largest international markets, as it\u2019s often cheaper for these companies to change how their products work everywhere rather than make concessions on a country by country basis.",
+        "summary": "Google will not have to host third-party Android app stores in the Indian version of its Play Store, following antitrust rulings from January.\nA few months back, Google was under antitr ust fire when the Competition Commission of India (CCI) ruled that the company had to be more permissive to third-party app stores and payment methods on its platform.\nBut Google won\u2019t have to host third-party Android app stores in the Play Store.\nThe directive was meant to diversify Android\u2019s offerings in a market where it is the dominant operating system by over 90%.\nGoogle feared the directive because allowing Indian Android users to go through other app stores for app downloads and other content meant less time spent inside Google\u2019s virtual shops, as well as fewer opportunities for Google to take a cut on paid content.",
         "keywords": [
-            "gets",
-            "finally",
-            "material",
-            "workspace",
-            "pillshaped",
+            "markets",
+            "way",
             "app",
-            "rounded",
-            "redesign",
+            "market",
+            "company",
+            "housing",
+            "biggest",
+            "play",
             "android",
+            "wriggles",
+            "indian",
+            "store",
+            "thirdparty",
+            "stores",
+            "legal",
             "google",
-            "modernized",
-            "voice"
+            "india"
         ],
         "sentiment": [
-            0.08776041666666667,
-            0.2375
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "2",
-        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFb3VtQkJ4Rmo5S05oam83M3p5Z0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "",
-        "description": "",
-        "summary": "",
-        "keywords": [],
+        "url": "https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5idXNpbmVzc3RvZGF5LmluL3RlY2hub2xvZ3kvbmV3cy9zdG9yeS9nb29nbGUtbGF5b2Zmcy1zb21lLWZpcmVkLWVtcGxveWVlcy1tYXktZ2V0LXVwLXRvLXJzLTI2MC1jcm9yZS1pbi1zZXZlcmFuY2UtcGF5LTM3NTQ0NC0yMDIzLTAzLTMw0gGYAWh0dHBzOi8vd3d3LmJ1c2luZXNzdG9kYXkuaW4vYW1wL3RlY2hub2xvZ3kvbmV3cy9zdG9yeS9nb29nbGUtbGF5b2Zmcy1zb21lLWZpcmVkLWVtcGxveWVlcy1tYXktZ2V0LXVwLXRvLXJzLTI2MC1jcm9yZS1pbi1zZXZlcmFuY2UtcGF5LTM3NTQ0NC0yMDIzLTAzLTMw?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google Layoffs: Some fired employees may get up to Rs 2.60 crore in severance pay",
+        "description": "Google's Irish office may offer generous severance packages worth over $320,000 (roughly Rs 2.60 crore) to some of its laid-off staff, according to a new report. The Google layoffs were announced in January as part of the company's plan to cut 12,000 jobs globally, affecting 240 workers in Ireland.\n\nAccording to a report by Sunday Times, the severance package reportedly includes six weeks of wages for every year worked at the company. While the Sunday Times did not provide specific examples, it noted that long-serving staff members could be in line for significant payouts. The report assumes that these fired employees worked with Google since they began operations in Ireland back in 2003.\n\nDuring the announcement of layoffs, Google CEO Sundar Pichai wrote a memo to all employees, saying that the company had hired for a different economic reality than the one they face today. In the memo, Pichai said, US employees affected by the layoffs will receive a minimum of 16 weeks of severance pay with two weeks for every additional year at the company. However, in February, some laid-off workers were informed that they would receive fewer stock units as part of their severance package due to an \"inaccurate calculation\" by Google.\n\nThe severance packages being offered to Google's laid-off staff in Ireland are more generous than those being offered in the US.\n\nGoogle Layoffs\n\nGoogle is not the only tech company that conducted layoffs. Amazon and Meta conducted two rounds of layoffs in a matter of months. The layoffs resulted in 27,000 job cuts in Amazon and 21,000 layoffs in Meta. The economic uncertainty has led to further layoffs in the tech industry and related sectors including media, social media, banking and more.\n\nAlso read: 'Bard not trained on any data from ChatGPT': Google denies using OpenAI data for training Bard",
+        "summary": "Google's Irish office may offer generous severance packages worth over $320,000 (roughly Rs 2.60 crore) to some of its laid-off staff, according to a new report.\nThe Google layoffs were announced in January as part of the company's plan to cut 12,000 jobs globally, affecting 240 workers in Ireland.\nThe report assumes that these fired employees worked with Google since they began operations in Ireland back in 2003.\nIn the memo, Pichai said, US employees affected by the layoffs will receive a minimum of 16 weeks of severance pay with two weeks for every additional year at the company.\nThe severance packages being offered to Google's laid-off staff in Ireland are more generous than those being offered in the US.",
+        "keywords": [
+            "crore",
+            "laidoff",
+            "260",
+            "company",
+            "weeks",
+            "rs",
+            "layoffs",
+            "staff",
+            "workers",
+            "report",
+            "pay",
+            "fired",
+            "severance",
+            "google",
+            "employees"
+        ],
         "sentiment": [
-            0.0,
-            0.0
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "3",
-        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oycE9xQ0J4RnZTVW8ySGl6QmxpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFb3VtQkJ4SG5ITTZZSWdZN2xpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
         "title": "",
         "description": "",
         "summary": "",
         "keywords": [],
         "sentiment": [
-            0.0,
-            0.0
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "4",
-        "url": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzMvMjgvMjM2NjA2NTMvZ29vZ2xlLXNlYXJjaC1yZXN1bHRzLXBlcnNwZWN0aXZlcy1jYXJvdXNlbC1hYm91dC10aGlzLXBhZ2UtYXV0aG9y0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "Google is going to show a new \u2018Perspectives\u2019 carousel in search results",
-        "description": "Google is adding a new carousel in search results to help you see different perspectives on certain search topics. The feature, called \u201cPerspectives,\u201d is a new box showing \u201cinsights from a range of journalists, experts, and other relevant voices\u201d that will appear under the \u201cTop Stories\u201d box in results.\n\nIn a blog post, the company shared a GIF of what the box looks like for perspectives on this year\u2019s Oscars. It includes tweets from Mark Hamill and Jamie Lee Curtis as well as a few articles. It looks fine, but I\u2019m annoyed that it will be yet another thing cluttering up Google\u2019s search results. (I may just be nostalgic for the good old days.)\n\nGIF: Google\n\nThe perspectives, in this instance, are fairly inoffensive. But it\u2019s not difficult to imagine how this could surface the types of controversial opinions or inaccurate statements that we\u2019re already subject to every day on Twitter. Google says it\u2019s \u201ccommitted to bringing you authoritative and trustworthy information\u201d in the box, and here\u2019s what spokesperson Meghann Farnsworth said about how it decides what will be included:\n\nOur systems automatically identify relevant voices across various platforms, depending on the search query. These systems look at a range of signals to determine if a result will be helpful, including relevance to the story, prominence, language, freshness, expertise and trustworthiness for the topic at hand. As with Search and News as a whole, we design our systems to surface high-quality, reliable information in the Perspectives carousel. When we become aware that content may violate our policies we review it and remove it from Search features where appropriate.\n\nYou\u2019ll start seeing the Perspectives carousel \u201csoon\u201d in English in the US on desktop and mobile, according to Google. The company is adding a few other updates to search as well. The \u201cAbout this result\u201d box you can see when you click the three dots next to a link will get an \u201cAbout this author\u201d section. And that \u201cAbout this result\u201d box will be expanded to \u201call languages where Search is available\u201d in the coming days.",
-        "summary": "Google is adding a new carousel in search results to help you see different perspectives on certain search topics.\nIt looks fine, but I\u2019m annoyed that it will be yet another thing cluttering up Google\u2019s search results.\nAs with Search and News as a whole, we design our systems to surface high-quality, reliable information in the Perspectives carousel.\nYou\u2019ll start seeing the Perspectives carousel \u201csoon\u201d in English in the US on desktop and mobile, according to Google.\nAnd that \u201cAbout this result\u201d box will be expanded to \u201call languages where Search is available\u201d in the coming days.",
-        "keywords": [
-            "voices",
-            "results",
-            "going",
-            "perspectives",
-            "surface",
-            "systems",
-            "carousel",
-            "box",
-            "google",
-            "result",
-            "search"
-        ],
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oycE9xQ0J4RmdES0tKOTlJNnN5Z0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "",
+        "description": "",
+        "summary": "",
+        "keywords": [],
         "sentiment": [
-            0.13812511273448774,
-            0.39310346771284277
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "5",
-        "url": "https://news.google.com/articles/CBMiaWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vdGVjaC9uZXdzL2V1LXJlZ3VsYXRvcnMtY2xlYXItZ29vZ2xlLXMtbWF0aHMtYXBwLWRlYWwtNzE2ODAwMjU3OTM3NTQuaHRtbNIBbWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vYW1wL3RlY2gvbmV3cy9ldS1yZWd1bGF0b3JzLWNsZWFyLWdvb2dsZS1zLW1hdGhzLWFwcC1kZWFsLTcxNjgwMDI1NzkzNzU0Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "EU regulators clear Google's maths app deal",
-        "description": "EU antitrust regulators gave unconditional approval for Alphabet unit Google's acquisition of Croatian maths app Photomath, the European Commission said in a statement on Tuesday.\n\nThe EU Commission said the deal would not reduce competition in the markets for \"online homework and study help tools that include maths as a subject offering and general search services,\" it said in a statement.\n\nReuters exclusively reported last week that Google was poised to win unconditional clearance for the deal.\n\nGoogle entered an agreement to acquire Photomath in May last year. Investors in the Croatian company include Menlo Ventures, LearnCapital, Goodwater Capital, GSV Ventures and Cherubic.",
-        "summary": "EU antitrust regulators gave unconditional approval for Alphabet unit Google's acquisition of Croatian maths app Photomath, the European Commission said in a statement on Tuesday.\nThe EU Commission said the deal would not reduce competition in the markets for \"online homework and study help tools that include maths as a subject offering and general search services,\" it said in a statement.\nReuters exclusively reported last week that Google was poised to win unconditional clearance for the deal.\nGoogle entered an agreement to acquire Photomath in May last year.\nInvestors in the Croatian company include Menlo Ventures, LearnCapital, Goodwater Capital, GSV Ventures and Cherubic.",
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k3aHJlQUJ4R0s5eXNudWZlWTBpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "News about Google, cloud and Microsoft",
+        "description": "",
+        "summary": "",
         "keywords": [
-            "croatian",
-            "regulators",
-            "photomath",
-            "win",
-            "app",
-            "deal",
-            "eu",
-            "googles",
-            "unconditional",
-            "ventures",
-            "commission",
-            "clear",
-            "week",
-            "include",
-            "maths"
+            "cloud",
+            "microsoft",
+            "google"
         ],
         "sentiment": [
-            0.06833333333333333,
-            0.1433333333333333
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "6",
-        "url": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1wYXktcmVicmFuZGVkLXRvLXdhbGxldC1qYXBhbi_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "",
-        "description": "",
-        "summary": "",
-        "keywords": [],
+        "url": "https://news.google.com/articles/CBMiRWh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vZXZlbnQtdHJhY2tpbmctZ29vZ2xlLWFuYWx5dGljcy00LTM5NTAyM9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Event tracking in Google Analytics 4: What marketers need to know",
+        "description": "Google Analytics 4 (GA4) rebuilt the platform from the ground up with a new central focus on events, enhancing users\u2019 ability to customize tracking for specific actions across websites and apps.\n\nTo set up GA4 properly, you should think through the events that make sense to track for your site.\n\nThis article covers the events you can track by default and how to set up custom events, along with suggested use cases for each.\n\nBuilt-in events\n\nOut of the box, GA4 includes events for several categories that can be automatically collected, including the following as of the time of this article.\n\nPage view\n\nThe page_view event fires whenever a page is loaded or the browser history state changes. This can\u2019t be disabled.\n\nScroll tracking\n\nThe scroll event fires when a user scrolls 90% of the way through a page.\n\nOutbound click tracking\n\nThe click event only fires for clicks leading to separate domains.\n\nSite search\n\nThis tracks internal search activity if you have the option included on your site.\n\nThe view_search_results event fires every time someone completes a search.\n\nThe search_term parameter will include the actual term that was searched.\n\nForm interaction\n\nThis fires form_start at the start of an interaction with a form (i.e., the user clicks inside a text field) and when the form is submitted (form_submit).\n\nYou can fire additional parameters to show form_id, form_name, and form_destination to delineate interactions with specific forms.\n\nVideo engagement\n\nVideo engagement tracks starts (video_start), completions (video_complete), and watch duration (video_progress) for embedded videos.\n\nParameters within the events can indicate the specific percentage or timestamp within the video when an action occurs and the video title and URL, regardless of its visibility on the page.\n\nFile downloads\n\nThis fires the file_download event for clicks leading to several common file formats, such as text documents, spreadsheets, presentations, executable files, compressed files, video, and audio\n\nNote that, apart from page views, you need to manually enable these events via Enhanced Event Measurement for them to fire.\n\nTo do so, from within the Admin section of your GA4 account, go to Data Streams under your GA4 property and select the stream you\u2019re working from.\n\nFrom here, you\u2019ll see the Enhanced measurement option near the top.\n\nToggle the switch on and select the gear to see the options for measuring specific events. You can then toggle on all the events you\u2019d like to include.\n\nOf course, these built-in events have limitations and barely scratch the surface of GA4\u2019s capabilities. Before discussing other uses for events, let\u2019s cover how you can create new events.\n\nGet the daily newsletter search marketers rely on. Processing\u2026Please wait. SUBSCRIBE See terms.\n\nCreating custom events\n\nFrom within the Admin section for your GA4 property, navigate to Events. You'll see a Create event button, which you can click to begin the process.\n\nNext, you'll see a Create event screen from which you can click the Create button.\n\nFrom here, you can add the event name and customize any parameters to pass additional information through to Google Analytics.\n\nIf you want to use an event as a conversion, you'll see a Mark as conversion option next to existing events listed in the Events section.\n\nToggle this to include the event in the Conversions report for the future and lump it together with metrics such as Conversion and Conversion Rate when creating custom explorations.\n\nLet's look at a few practical uses for custom events on your website or app.\n\nInternal click tracking\n\nWhile GA4 records events for outbound clicks by default, internal clicks leading to the same domain or domains included in cross-domain measurement are not tracked.\n\nHowever, you may want to track these clicks to answer questions such as:\n\nHow many people click an Apply Now button that leads from a landing page to an application process?\n\nHow many people click a link to a store locator, indicating interest in visiting a location?\n\nAre people engaging with a carousel on your homepage that links to various internal pages?\n\nUsing Google Tag Manager, you can set up an event to target a click on a specific element within your site.\n\nWhile the exact approach may vary depending on the site, you could set up a trigger based on an HTML ID, a link URL, object text, or other criteria to ensure you're picking up on the correct click.\n\nLogged-in activity\n\nIf applicable to your site, you can fire a sign_up event when users register or login when current users log into their accounts.\n\nThis tracking could help answer questions such as:\n\nWhat sources have the highest conversion rate for user registrations?\n\nHow often are existing users logging into their accounts?\n\nWhat devices are users most likely to use for accessing their accounts?\n\nBeyond setting up these events, explore setting up user ID tracking, in which you assign a unique ID to each individual and can connect future sessions to the same user when they log in down the road.\n\nEcommerce events\n\nFor ecommerce sites, be sure to incorporate tracking for cart, checkout, and purchase-related activities.\n\nGA4 recommends the following events which are relevant for common ecommerce actions you'd want to record:\n\nview_item\n\nselect_item\n\nselect_promotion\n\nadd_to_cart\n\nremove_from_cart\n\nview_cart\n\nbegin_checkout\n\npurchase\n\nrefund\n\nApp engagement\n\nGA4 can track several events related to app interactions, such as when users:\n\nUpdate an app.\n\nActivate in-app purchases.\n\nOpen the app via a dynamic link.\n\nClick in-app ads.\n\nInteract with notifications within the app.\n\nThese examples and others are automatically collected, but additional recommended events can be included, depending on the type of app.\n\nFor instance, a game may include tutorials to teach new users how to play.\n\nYou can fire events for people working their way through the tutorial, showing how many individuals start the process and how many finish without dropping out.\n\nOther in-game events can track starting/ending levels, spending virtual currency, unlocking achievements, and posting scores.\n\nStart creating events\n\nThis is just an initial list of potential events to create for your site or app, but the possibilities are endless for tracking your particular setup.\n\nConsider the user actions crucial to your business or clients and how you can correlate events with these activities.\n\nThe sooner you gather historical events, the more robust data you'll have for future analysis.",
+        "summary": "Page viewThe page_view event fires whenever a page is loaded or the browser history state changes.\nScroll trackingThe scroll event fires when a user scrolls 90% of the way through a page.\nOutbound click trackingThe click event only fires for clicks leading to separate domains.\nThe view_search_results event fires every time someone completes a search.\nFrom here, you can add the event name and customize any parameters to pass additional information through to Google Analytics.",
+        "keywords": [
+            "event",
+            "events",
+            "ga4",
+            "know",
+            "marketers",
+            "clicks",
+            "click",
+            "user",
+            "fires",
+            "need",
+            "tracking",
+            "youll",
+            "analytics",
+            "users",
+            "google"
+        ],
         "sentiment": [
-            0.0,
-            0.0
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "7",
-        "url": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9nb29nbGUtbWFnaWMtZXJhc2VyLXZzLXNhbXN1bmctb2JqZWN0LWVyYXNlci_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "",
-        "description": "",
-        "summary": "",
-        "keywords": [],
+        "url": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnNlYXJjaGVuZ2luZWpvdXJuYWwuY29tL2dvb2dsZS1zZWFyY2gtY29uc29sZS10dXRvcmlhbC1hbmFseXppbmctdHJhZmZpYy1kcm9wcy80ODM1NTMv0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google Search Console Tutorial: Analyzing Traffic Drops",
+        "description": "In a YouTube video, Google\u2019s Search Advocate, Daniel Waisberg, offers valuable tips on quickly spotting and analyzing the reasons for a decline in Google Search traffic.\n\nThe timing of this informative guide is perfect, as Google just wrapped up its March 2023 core algorithm update. Many people are now evaluating its impact on their websites.\n\nIf you\u2019re trying to figure out how the update has affected your site, the Search Console Performance report is an excellent starting point.\n\nWaisberg demonstrates how, when combined with Google Trends, the Search Console Performance report can help you investigate shifts in traffic patterns.\n\nMain Reasons For Organic Traffic Drops\n\nThere can be several reasons for a drop in organic traffic. Waisberg highlights these main causes:\n\nTechnical issues : Errors that prevent Google from crawling, indexing, or serving your pages to users. These could be site-level or page-level technical issues.\n\n: Errors that prevent Google from crawling, indexing, or serving your pages to users. These could be site-level or page-level technical issues. Manual actions : If your website doesn\u2019t follow Google\u2019s guidelines, some pages or the entire site may be less visible in Google Search results.\n\n: If your website doesn\u2019t follow Google\u2019s guidelines, some pages or the entire site may be less visible in Google Search results. Algorithm updates : Core updates may change how some pages perform in Google Search over time, leading to a slow decline in traffic.\n\n: Core updates may change how some pages perform in Google Search over time, leading to a slow decline in traffic. Search interest disruption : Changes in user behavior or external influences could affect the demand for certain queries.\n\n: Changes in user behavior or external influences could affect the demand for certain queries. Seasonality effects : Regular traffic fluctuations due to weather, vacations, or holidays.\n\n: Regular traffic fluctuations due to weather, vacations, or holidays. Reporting glitches: Sudden major changes followed by a quick return to the norm could indicate a simple glitch.\n\nAnalyzing Traffic Drops Using Search Console Performance Report\n\nThe Search Console Performance report is an effective tool for understanding traffic fluctuations.\n\nTo access the Performance report in Google Search Console, follow these simple steps:\n\nLog in to the Google Search Console website at search.google.com/search-console.\n\nClick on the website you want to analyze.\n\nIn the left-hand sidebar menu, click on \u201cPerformance.\u201d\n\nYou\u2019ll now see the Performance report for your selected property, displaying data such as total clicks, impressions, average click-through rate (CTR), and average position for your website.\n\nWaisberg suggests several ways to analyze the data:\n\nExpand the date range to 16 months to view the drop in context and identify any patterns or trends.\n\nPeriodically export and store data to access more than 16 months of information.\n\nCompare the drop period to a similar period (e.g., the same month last year or the same day last week) to pinpoint the exact changes.\n\nExplore all available tabs to determine if changes occurred only for specific queries, pages, countries, devices, or Search appearances.\n\nEnsure you compare the same number of days and preferably the same days of the week.\n\nAnalyze different Search types separately to understand if the drop was limited to Search, Google Images, Video, or News tab.\n\nUsing Google Trends For Industry Analysis\n\nGoogle Trends provides insights into web, image, news, shopping, and YouTube search trends.\n\nWaisberg recommends using it to:\n\nAnalyze general trends within your industry or country to identify changes in user behavior or competing products.\n\nSegment data by country and category for more relevant insights into your website audience.\n\nExamine queries driving traffic to your site for seasonal fluctuations or trends.\n\nIn Summary\n\nUnderstanding the reasons behind Google Search traffic drops is crucial. Using the Search Console Performance report and Google Trends, you can identify and analyze the causes of these drops, helping you stay ahead of industry trends and maintain your online presence.\n\nIn his next video, Waisberg will explore more ways to analyze search performance, including using a bubble chart.\n\nFeatured Image: Screenshot from YouTube, March 2023.\n\nSource: YouTube",
+        "summary": "In a YouTube video, Google\u2019s Search Advocate, Daniel Waisberg, offers valuable tips on quickly spotting and analyzing the reasons for a decline in Google Search traffic.\nWaisberg demonstrates how, when combined with Google Trends, the Search Console Performance report can help you investigate shifts in traffic patterns.\nAnalyzing Traffic Drops Using Search Console Performance ReportThe Search Console Performance report is an effective tool for understanding traffic fluctuations.\nTo access the Performance report in Google Search Console, follow these simple steps:Log in to the Google Search Console website at search.google.com/search-console.\nIn SummaryUnderstanding the reasons behind Google Search traffic drops is crucial.",
+        "keywords": [
+            "performance",
+            "search",
+            "pages",
+            "console",
+            "traffic",
+            "report",
+            "drops",
+            "analyzing",
+            "trends",
+            "changes",
+            "website",
+            "google",
+            "tutorial"
+        ],
         "sentiment": [
-            0.0,
-            0.0
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "8",
-        "url": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5saXZlbWludC5jb20vdGVjaG5vbG9neS90ZWNoLW5ld3MvYm9vc3QtZ29vZ2xlLWNocm9tZS1zLXBlcmZvcm1hbmNlLXVzaW5nLXRoaXMtbmV3LWRlc2t0b3AtZmVhdHVyZS0xMTY4MDA4MjgxMTAzNC5odG1s0gGGAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS90ZWNobm9sb2d5L3RlY2gtbmV3cy9ib29zdC1nb29nbGUtY2hyb21lLXMtcGVyZm9ybWFuY2UtdXNpbmctdGhpcy1uZXctZGVza3RvcC1mZWF0dXJlL2FtcC0xMTY4MDA4MjgxMTAzNC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "Boost Google Chrome\u2019s performance using THIS new desktop feature",
-        "description": "Google Chrome is one of the most popular web browsers used by millions worldwide. Google recently introduced Memory Saver mode that frees up memory from tabs you are not currently using. This, the tech company says, allows the active websites you\u2019re browsing to deliver the \u2018smoothest possible experience\u2019.\n\nAll inactive tabs will be reloaded once you visit them again. Google Chrome\u2019s Memory Saver mode feature is especially useful if you\u2019re running other intensive applications, like editing family videos or playing games.\n\nWondering how to turn on the Memory Saver mode on Google Chrome?\n\nOpen Google Chrome on your laptop/desktop\n\nTap on the three-dot menu that is available next to your profile photo\n\nHere, click on Settings\n\nGo to Performance section\n\nNext, toggle on the Memory Saver mode\n\nReaders must note that the Memory Saver doesn\u2019t disable media playing in the background. This means that users can still play music, YouTube videos and even podcasts in the background. The feature only disables websites that take resources without providing an immediate benefit.\n\nIn another news, Google has started opening access to its generative artificial intelligence (AI) chatbot called Bard as it seeks public feedback to \u201cimprove its systems\" and take on OpenAI\u2019s ChatGPT. Bard can be accessed by users in the US and UK starting today at bard.google.com. It will be released in other regions and in other languages over time, the big tech firm said.\n\nBard was unveiled last month around the same time Microsoft announced AI-powered Bing, which is based on OpenAI's large language model that has been designed especially for search and is more powerful than even ChatGPT.\n\nGoogle\u2019s Bing unveiling didn\u2019t go as expected as the chatbot generated inaccurate information in a promotional video, which wiped out $100 billion in Google parent Alphabet\u2019s market value.",
-        "summary": "Google recently introduced Memory Saver mode that frees up memory from tabs you are not currently using.\nThis, the tech company says, allows the active websites you\u2019re browsing to deliver the \u2018smoothest possible experience\u2019.\nGoogle Chrome\u2019s Memory Saver mode feature is especially useful if you\u2019re running other intensive applications, like editing family videos or playing games.\nWondering how to turn on the Memory Saver mode on Google Chrome?\nOpen Google Chrome on your laptop/desktopTap on the three-dot menu that is available next to your profile photoHere, click on SettingsGo to Performance sectionNext, toggle on the Memory Saver modeReaders must note that the Memory Saver doesn\u2019t disable media playing in the background.",
+        "url": "https://news.google.com/articles/CBMia2h0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vaG93LXRoZS1tYXJjaC0yMDIzLWdvb2dsZS1jb3JlLXVwZGF0ZS1jb21wYXJlZC10by1wcmV2aW91cy1jb3JlLXVwZGF0ZXMtMzk0OTk10gEA?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "How the March 2023 Google core update compared to previous core updates",
+        "description": "Now that the Google March 2023 broad core update is done rolling out, we wanted to take a deeper dive on how this core update differed from previous Google core updates. This update was indeed a big one, and caused a lot of ranking volatility across many verticals in the Google search results.\n\nMarch 2023 core update. As a reminder, the Google March 2023 broad core update started rolling out March 15, 2023, took 13 days to complete, and finished on March 28, 2023.\n\nSo far, two data providers sent us their reports on this March 2023 core update. We have data from Semrush and RankRanger and in this case, the two data companies are not telling exactly the same story. In short. Semrush said the March 2023 update was more volatile than the September 2022 core update, while RankRanger said it was about as volatile at that previous core update.\n\nLet\u2019s dig into the data.\n\nSemrush. Semrush data showed that the March 2023 core update hit a peak of 8 in terms of their Semrush Sensor data volatility. When you compare that to the September 2022 core update, that update only reached about 5. Here is a look at the peaks for both updates over the period of time they rolled out:\n\n\u201cThe volatility increases seen during the March 2023 Core Update relative to the pre-update baseline were 74% higher than what was recorded back in September,\u201d Mordy Oberstein, who sent us this data from Semrush told us.\n\nHere is a chart just comparing the percentage of URL changes in the Google Search results for each update:\n\nIf you compare it by vertical, you can see Semrush is showing the March 2023 update to be significantly more impactful than the September 2022 update.\n\n\u201cThe March 2023 Core Update relative to the September 2022 Core Update \u2013 8.7% of the top 10 results now ranking on the SERP previously ranked beyond position 20 prior to the update. Back in September, that number stood at 6.5%. Thus, the data again points to more significant rank fluctuations during the March update,\u201d Mordy Oberstein told us.\n\nRankRanger. The RankRanger team also sent us data but their data told a bit of a different story when comparing this March 2023 core update to the September 2022 core update. First off, this was a big update, the RankRanger Rank Risk Index showed big volatility the day after the update started to roll out:\n\nRankRanger then compared how volatile this March 2023 update was to not just the September 2022 core update but all the previous core updates since December 2020. And while the March 2023 core update was one of the biggest updates, it seemed to match the intensity of the September 2022 core update.\n\n\u201cWhen we look at the average fluctuations for the March update, we see that it was one of the biggest updates topped only by the June 2021 update,\u201d Darrell Mordecai from RankRanger told us.\n\nAlso, when RankRanger looked at the top 3, top 5, and top 10 positions, the data showed that the March update 2023 showed lower rank volatility than the September 2022 update in the top 5 positions.\n\nFinally, RankRanger showed how the verticals, they call it niches, were impacted by this update, across the top 3, 5 and 10 result placements in the organic Google Search results.\n\nMore on the March 2023 core update\n\nCommunity. On the Search Engine Roundtable, I did a bit of a roundup on what the community noticed across three different stories. The first story currently has just under 500 comments on the story, then the second story was a spike we saw around March 23rd/24th with over 120 comments and then I did a roundup on the competition of the rollout the day after the rollout was completed.\n\nBased on all I see from the community, this update was big.\n\nWhat to do if you are hit. Google has given advice on what to consider if you are negatively impacted by a core update in the past. There aren\u2019t specific actions to take to recover, and in fact, a negative rankings impact may not signal anything is wrong with your pages. However, Google has offered a list of questions to consider if your site is hit by a core update. Google did say you can see a bit of a recovery between core updates but the biggest change you would see would be after another core update.\n\nWhy we care. It is often hard to isolate what you need to do to reverse any algorithmic hit your site may have seen. When it comes to Google core updates, it is even harder to do so. What this data and previous experience and advice has shown us is that these core updates are broad, wide and cover a lot of overall quality issues. The data above has reinforced this to be true. So, if your site was hit by a core update, it is often recommended to step back from it all, take a wider view of your overall website and see what you can do to improve the site overall.\n\nHopefully, your company and your clients did well with this update.\n\nMore on Google updates\n\nYou can read more of our coverage in Search Engine Land\u2019s Google Algorithm Updates history.",
+        "summary": "Now that the Google March 2023 broad core update is done rolling out, we wanted to take a deeper dive on how this core update differed from previous Google core updates.\nSemrush said the March 2023 update was more volatile than the September 2022 core update, while RankRanger said it was about as volatile at that previous core update.\nWhen you compare that to the September 2022 core update, that update only reached about 5.\n\u201cThe March 2023 Core Update relative to the September 2022 Core Update \u2013 8.7% of the top 10 results now ranking on the SERP previously ranked beyond position 20 prior to the update.\nAnd while the March 2023 core update was one of the biggest updates, it seemed to match the intensity of the September 2022 core update.",
         "keywords": [
-            "chromes",
-            "users",
-            "desktop",
-            "performance",
-            "using",
-            "tabs",
-            "feature",
-            "saver",
-            "youre",
-            "videos",
-            "mode",
-            "tech",
-            "websites",
-            "boost",
+            "update",
+            "core",
+            "2022",
+            "updates",
+            "compared",
+            "volatility",
+            "2023",
+            "semrush",
+            "data",
+            "previous",
             "google",
-            "memory"
+            "rankranger"
         ],
         "sentiment": [
-            0.03409863945578233,
-            0.3645266439909297
+            "postive",
+            1.0
         ],
         "dark": "False"
     },
     {
         "key": "9",
-        "url": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnplZWJpei5jb20vdGVjaG5vbG9neS9hcHBzL25ld3MtZ29vZ2xlLXRvLXNodXQtamFjcXVhcmQtc21hcnQtZmFicmljLWFwcC1pbi1hcHJpbC0yMjgwNDbSAWhodHRwczovL3d3dy56ZWViaXouY29tL3RlY2hub2xvZ3kvYXBwcy9uZXdzLWdvb2dsZS10by1zaHV0LWphY3F1YXJkLXNtYXJ0LWZhYnJpYy1hcHAtaW4tYXByaWwtMjI4MDQ2L2FtcA?hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "title": "Google to shut Jacquard smart fabric app in April",
-        "description": "Google has confirmed that it will be shutting down the app responsible for the Jacquard accessories made by the company's Advanced Technology and Projects (ATAP) group in April.\n\nJacquard, a full-scale digital technology platform created for smart apparel, footwear, and other everyday essentials, was unveiled by Google in 2015 and debuted two years later on special jackets from Levi's, reports 9to5Google.\n\nGoogle's Jacquard technology can embed touch sensors and haptic feedback into clothing, which can then be paired with a smartphone.\n\nIn effect, these smart jackets -- and later smart Yves Saint Laurent backpacks -- allowed users to perform specific (customisable) tasks on their phones without ever touching them.\n\nALSO READ | Bard Vs ChatGPT: How they differ from each other\n\nA double-tap, for example, could play/pause music, brushing the smart fabric could change tracks, and briefly covering the sensor would mute/unmute notifications, the report said.\n\nSeveral companies have released products that incorporate Google Jacquard since its initial release.\n\nLast year, Google shut down Duplex on the Web, a technology that enables Google Assistant to automate certain user tasks for site visitors.\n\nThe company introduced Duplex on the Web during its 2019 Google I/O developer conference.\n\nDuplex on the Web enables Google Assistant to perform different actions on the sites.",
-        "summary": "Google's Jacquard technology can embed touch sensors and haptic feedback into clothing, which can then be paired with a smartphone.\nIn effect, these smart jackets -- and later smart Yves Saint Laurent backpacks -- allowed users to perform specific (customisable) tasks on their phones without ever touching them.\nSeveral companies have released products that incorporate Google Jacquard since its initial release.\nLast year, Google shut down Duplex on the Web, a technology that enables Google Assistant to automate certain user tasks for site visitors.\nDuplex on the Web enables Google Assistant to perform different actions on the sites.",
+        "url": "https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjkxODI1L2dvb2dsZS1hbWJ1c2hlcy1vbi1wcmVtLXBvc3RncmVzcWwtd2l0aC1hbGxveWRiLW9tbmkuaHRtbNIBZ2h0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjkxODI1L2dvb2dsZS1hbWJ1c2hlcy1vbi1wcmVtLXBvc3RncmVzcWwtd2l0aC1hbGxveWRiLW9tbmkuYW1wLmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "title": "Google ambushes on-prem PostgreSQL with AlloyDB Omni",
+        "description": "Google is developing a self-managed and downloadable version of its PostgreSQL-compatible AlloyDB fully managed database-as-a-service (DBaaS) in order to further help enterprises to modernize their legacy databases. It is now inviting applications for the private preview, it said Wednesday.\n\nDubbed AlloyDB Omni, the new offering uses the same underlying engine as AlloyDB and can be downloaded and run on premises, at the edge, across clouds, or even on developer laptops, Andi Gutmans, general manager of databases at Google Cloud, wrote in a blog post.\n\nThis means that enterprises using AlloyDB Omni will get AlloyDB\u2019s improved transactional processing performance and memory management compared with standard PostgreSQL, and an index advisor to optimize frequently run queries.\n\n\u201cThe AlloyDB Omni index advisor helps alleviate the guesswork of tuning query performance by conducting a deep analysis of the different parts of a query including subqueries, joins, and filters,\u201d Gutmans said, adding that it periodically analyzes the database workload to identify queries that can benefit from indexes, and recommends new indexes that can increase query performance.\n\nIn order to reduce latency for query results, Omni uses AlloyDB\u2019s columnar engine that keeps frequently queried data in an in-memory columnar format for faster scans, joins, and aggregations, the company said, adding that AlloyDB Omni uses machine learning to automatically organize data between row-based and columnar formats, convert the data when needed, and choose between columnar and row-based execution plans.\n\n\u201cThis delivers excellent performance for a wide range of queries, with minimal management overhead,\u201d Gutmans said.\n\nHow does AlloyDB Omni help enterprises?\n\nSelf-managed AlloyDB Omni provides a pathway to modernize legacy databases on-premises before moving to the cloud, analysts said.\n\n\u201cDatabase migrations can be complex and costly, especially when combined with migration from on-premises infrastructure to cloud. AlloyDB Omni provides a pathway for organizations to modernize those workloads in-place by migrating to AlloyDB Omni on-premises,\u201d said Matt Aslett, research director at Ventana Research.\n\n\u201cThis move can be seen as one step prior to a potential move to the AlloyDB managed service, or with a view to retaining the workloads in on-premises data centers or on edge infrastructure due to sovereignty or performance requirements,\u201d he added.\n\nAccording to Omdia\u2019s Chief Analyst Bradley Shimmin and dbInsight\u2019s Principal Analyst Tony Baer, AlloyDB Omni combines the best of open-source PostgreSQL and Google Cloud\u2019s architecture, making it more appealing than rival services such as AWS Aurora for PostgreSQL and Microsoft\u2019s CitiusDB, among others.\n\nShimmin said that for larger customers or those looking to modernize and transform sizable, mission-critical databases, \u201cSticking with an open-source solution like PostgreSQL can be limiting in terms of providing modern data architectures or features, especially in supporting multi or hybrid-deployment requirements.\u201d AlloyDB Omni could overcome those limitations, he said.\n\nFor Baer, \u201cThe appeal of AlloyDB Omni is that it is one of the few PostgreSQL implementations optimized for both scale and mixed transaction or analytic workloads that is not solely tethered to a specific hyperscaler.\u201d\n\nWhat is Google\u2019s strategy with AlloyDB Omni?\n\nGoogle plans to use AlloyDB Omni as another offering in its plan to gain more share in the PostgreSQL-led legacy database migration market at a time when PostgreSQL has seen rise in popularity, the analysts said.\n\nShimmin noted that, \u201cFor many customers, PostgreSQL is a relational lingua-franca and therefore a means of modernizing legacy databases by porting them to a cloud-native rendition on AWS, GCP or any other hyperscaler.\u201d\n\nAccording to data from relational databases knowledge platform db-engines.com, PostgreSQL has been steadily rising in popularity and is currently the fourth-most-popular RDBMS (relational database management system) and fourth-most-popular product cited among all databases in their rankings.\n\nAnother reason for PostgreSQL\u2019s rise in popularity is that the database management system offers better transactional and analytical capabilities than MySQL along with other features such as extended support for spatial data, broader SQL support, enhanced security and governance, and expanded support for programming languages.\n\nGoogle\u2019s Gutmans said the company has received \u201chuge\u201d interest from customers for database modernization since the launch of AlloyDB.\n\nAnd according to Aslett, AlloyDB Omni builds on AlloyDB\u2019s momentum for Google to gain share in the PostgreSQL market.\n\n\u201cAlloyDB was launched to enable organizations to modernize applications with high-end performance and reliability requirements that have previously been deployed on-premises on enterprise operational databases including Oracle, IBM and Microsoft, as well as PostgreSQL,\u201d he said.\n\n\u201cBy 2025, two-thirds of organizations will re-examine their current operational database suppliers with a view to improving fault tolerance and supporting the development of new intelligent operational applications,\u201d he added.\n\nAccording to a report from market research firm Gartner, the race to modernize databases is accelerating due to enterprises\u2019 need to run analytics for business strategy and growth.\n\nHow to access AlloyDB Omni?\n\nGoogle is currently offering the free developer version of AlloyDB Omni for non-production use, which can be downloaded on developers\u2019 laptops.\n\n\u201cWhen it\u2019s time to move an application to a production-ready environment, it will run unchanged on AlloyDB Omni in any environment, or on the AlloyDB for PostgreSQL service in Google Cloud,\u201d Gutmans said.\n\n\u201cIf needed, you can use standard open-source PostgreSQL tools to migrate or replicate their data. You can also use standard open-source PostgreSQL tools for database operations like backup and replication,\u201d he added.\n\nGoogle said AlloyDB Omni supports existing PostgreSQL applications as it uses standard PostgreSQL drivers. In addition, the software provides compatibility with PostgreSQL extensions and configuration flags.\n\nFurther, Google said that it will provide full enterprise support, including 24/7 technical support and software updates for security patches, features, when AlloyDB Omni is made generally available.\n\nAlthough Google hasn\u2019t yet set a date for that, enterprises can already get access to the technical preview of the offering by submitting a request to the search giant.",
+        "summary": "AlloyDB Omni provides a pathway for organizations to modernize those workloads in-place by migrating to AlloyDB Omni on-premises,\u201d said Matt Aslett, research director at Ventana Research.\nFor Baer, \u201cThe appeal of AlloyDB Omni is that it is one of the few PostgreSQL implementations optimized for both scale and mixed transaction or analytic workloads that is not solely tethered to a specific hyperscaler.\u201dWhat is Google\u2019s strategy with AlloyDB Omni?\nAnd according to Aslett, AlloyDB Omni builds on AlloyDB\u2019s momentum for Google to gain share in the PostgreSQL market.\nGoogle is currently offering the free developer version of AlloyDB Omni for non-production use, which can be downloaded on developers\u2019 laptops.\nGoogle said AlloyDB Omni supports existing PostgreSQL applications as it uses standard PostgreSQL drivers.",
         "keywords": [
-            "tasks",
-            "perform",
-            "smart",
-            "technology",
-            "jackets",
-            "shut",
-            "app",
-            "web",
-            "fabric",
-            "enables",
+            "support",
+            "performance",
+            "modernize",
+            "omni",
+            "ambushes",
+            "alloydb",
+            "postgresql",
+            "database",
+            "databases",
+            "data",
             "google",
-            "jacquard",
-            "later"
+            "onprem"
         ],
         "sentiment": [
-            0.05413727219282775,
-            0.30179306290417407
+            "postive",
+            1.0
         ],
         "dark": "False"
     }

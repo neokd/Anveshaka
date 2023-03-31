@@ -67,7 +67,7 @@ def write_json(links):
         json_write.append(json_data)
         i+=1
     with open('temp.json','w') as json_file:
-        json.dump(json_write,json_file,indent=4, separators=(',', ': '))
+        json.dump(json_write,json_file,indent=4, separators=(',', ': '))    
 
 def extract_json():
     json_file = open('temp.json')

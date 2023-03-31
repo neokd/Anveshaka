@@ -75,7 +75,7 @@ async def generate():
         }
     except:
         return {
-            "generated":"Sorry, Couldn't fetch the data"
+            "generated":wikipedia.summary(query)
         }
 
 if __name__ == '__main__':
