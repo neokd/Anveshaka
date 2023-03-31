@@ -1,6 +1,6 @@
 # GDSC Solution Challenge
 # Anveshaka 
-### Anveshaka is a news analysis tool developed to search for news articles mentioning a given name and determining the sentiment and context associated with the name from those articles. The tool uses Natural Language Processing (NLP) and Machine Learning (ML) algorithms to extract the relevant information from news articles and analyze the sentiment of the text. The collected articles and associated moods are available to the user through a user-friendly interface.
+Anveshaka is a news analysis tool developed to search for news articles mentioning a given name and determining the sentiment and context associated with the name from those articles. The tool uses Natural Language Processing (NLP) and Machine Learning (ML) algorithms to extract the relevant information from news articles and analyze the sentiment of the text. The collected articles and associated moods are available to the user through a user-friendly interface.
 
 <br/>
 
