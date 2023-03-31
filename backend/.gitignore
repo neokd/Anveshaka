@@ -1,3 +1,3 @@
 .env
-serviceAccount1.json
-serviceAccount2.json
+backend/serviceAccount1.json
+backend/serviceAccount2.json
