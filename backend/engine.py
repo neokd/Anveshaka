@@ -39,7 +39,7 @@ def find_sentiment(text):
         avg_polarity = avg_polarity / len(polarity_data)
         print(avg_polarity)
         if avg_polarity > 0:
-            return ['postive',avg_polarity]
+            return ['positive',avg_polarity]
         elif avg_polarity < 0:
             return ['negative',avg_polarity]
         else:

@@ -4,9 +4,13 @@ import bs4
 import json
 import nltk
 import engine
+import os
 
 try:
-    nltk.data.find('tokenizers/punkt.zip')
+    home_directory = os.path.expanduser( '~' )
+    path = os.path.join( home_directory, 'nltk_data', 'tokenizers','punkt.zip' )
+    os.path.isfile(path)
+    print('found')
 except Exception:
     nltk.download('punkt')
 
