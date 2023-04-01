@@ -15,7 +15,7 @@ try:
     home_directory = os.path.expanduser( '~' )
     path = os.path.join( home_directory, 'nltk_data', 'tokenizers','punkt.zip' )
     os.path.isfile(path)
-    print('found')
+    print(f'Found NLTK punkt at {path}')
 except Exception:
     nltk.download('punkt')
 

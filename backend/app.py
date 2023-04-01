@@ -69,7 +69,7 @@ def success():
     return jsonify(scrape.extract_json())
 
 @app.route('/api/generate',methods=['GET'])
-async def generate():
+def generate():
     global query
     try:
         tokenizer = T5Tokenizer.from_pretrained('t5-small')
