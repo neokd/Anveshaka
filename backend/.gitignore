@@ -1,3 +1,4 @@
 .env
-backend/serviceAccount1.json
-backend/serviceAccount2.json
+serviceAccount1.json
+serviceAccount2.json
+backend/proxy.txt
